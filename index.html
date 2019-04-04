@@ -6,33 +6,12 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
   </head>
+
   <body>
-    <div id="medicareVis"></div>
+    <div id="nameEnrollees"></div>
 
     <script type="text/javascript">
-      var MedicareEnrolleeViz = {
-        "data": {"url": "data/medicare.csv"},
-        "mark": "bar",
-        "encoding": {
-          "x": 
-            "field": "StateName",
-            "type": "nominal"
-          },
-          "y": {
-            "field": "MedicareEnrollees",
-            "type": "quantitative"
-          }
-        }
-      };
-      vegaEmbed('#medicareVis', MedicareEnrolleeViz);
-    </script>
-  </body>
-  
-  <body>
-    <div id="test"></div>
-
-    <script type="text/javascript">
-      var testViz = {
+      var stateEnrolleesViz = {
         "data": {"url": "data/Medicare.csv"},
         "mark": "bar",
         "encoding": {
@@ -46,7 +25,7 @@
           }
         }
       };
-      vegaEmbed('#test', testViz);
+      vegaEmbed('#nameEnrollees', stateEnrolleesViz);
     </script>
   </body>
   
