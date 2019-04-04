@@ -37,7 +37,11 @@
         "data": {"url": "data/medicare.csv"},
         "layer": [
           {
-            "mark": {"type": "line", "color": "red", "point": {"fill": "red"}},
+            "mark": {
+              "type": "line", 
+              "color": "#85C5A6", 
+              "point": {"fill": "#85C5A6"}
+            },
             "encoding": {
               "x": {
                 "field": "State name",
@@ -46,7 +50,10 @@
               "y": {
                 "field": "Total Medicare reimbursements per enrollee - ASR",
                 "type": "quantitative",
-                "title": "Total Medicare reimbursements per enrollee with two adjusting methods"
+                "axis": {
+                  "title": "Total Medicare reimbursements per enrollee - ASR", 
+                  "titleColor":"#85C5A6"
+                }
               }
             }
           },
@@ -59,7 +66,11 @@
               },
               "y": {
                 "field": "Total Medicare reimbursements per enrollee - PASR",
-                "type": "quantitative"
+                "type": "quantitative",
+                "axis": {
+                  "title": "Total Medicare reimbursements per enrollee - PASR", 
+                  "titleColor":"#85A9C5"
+                }
               }
             }
           }
