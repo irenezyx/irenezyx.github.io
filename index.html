@@ -53,4 +53,26 @@
       vegaEmbed('#vis2', myMovieViz2);
     </script>
   </body>
+  
+    <body>
+    <div id="vis3"></div>
+
+    <script type="text/javascript">
+      var stateMedicareEnrollee = {
+        "data": {"url": "data/data.csv"},
+        "mark": "bar",
+        "encoding": {
+          "x": 
+            "field": "State name",
+            "type": "nominal"
+          },
+          "y": {
+            "field": "Medicare enrollees (2014)",
+            "type": "quantitative"
+          }
+        }
+      };
+      vegaEmbed('#vis3', stateMedicareEnrollee);
+    </script>
+  </body>
 </html>
