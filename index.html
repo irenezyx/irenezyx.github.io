@@ -12,7 +12,7 @@
 
     <script type="text/javascript">
       var stateEnrolleesViz = {
-        "data": {"url": "data/medicare.csv"},
+        "data": {"url": "data/Medicare.csv"},
         "mark": "bar",
         "encoding": {
           "x": {
@@ -26,6 +26,28 @@
         }
       };
       vegaEmbed('#nameEnrollees', stateEnrolleesViz);
+    </script>
+  </body>
+  
+  <body>
+    <div id="nameTotal"></div>
+
+    <script type="text/javascript">
+      var stateTotalViz = {
+        "data": {"url": "data/Medicare.csv"},
+        "mark": "line",
+        "encoding": {
+          "x": {
+            "field": "State name",
+            "type": "nominal"
+          },
+          "y": {
+            "field": "Total Medicare reimbursements per enrollee - ASR",
+            "type": "quantitative"
+          }
+        }
+      };
+      vegaEmbed('#nameTOtal', stateTotalViz);
     </script>
   </body>
   
