@@ -7,28 +7,6 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
   </head>
   <body>
-    <div id="weatherVis"></div>
-
-    <script type="text/javascript">
-      var weatherViz = {
-        "data": {"url": "data/seattle-weather.csv"},
-        "mark": "bar",
-        "encoding": {
-          "x": {
-            "field": "date",
-            "type": "ordinal"
-          },
-          "y": {
-            "field": "precipitation",
-            "type": "quantitative"
-          }
-        }
-      };
-      vegaEmbed('#weatherVis', weatherViz);
-    </script>
-  </body>
-  
-  <body>
     <div id="medicareVis"></div>
 
     <script type="text/javascript">
