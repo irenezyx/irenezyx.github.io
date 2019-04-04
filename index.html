@@ -37,7 +37,7 @@
         "data": {"url": "data/medicare.csv"},
         "layer": [
           {
-            "mark": "line",
+            "mark": {"type": "line", "color": "red"}
             "encoding": {
               "x": {
                 "field": "State name",
@@ -59,7 +59,6 @@
               "y": {
                 "field": "Total Medicare reimbursements per enrollee - PASR",
                 "type": "quantitative",
-                "fill": "green"
               }
             }
           }
