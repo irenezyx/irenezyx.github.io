@@ -11,17 +11,17 @@
 
     <script type="text/javascript">
       var myMovieViz1 = {
-        "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
-        "data": {"url": "data/movies.json"},
+        "data": {"url": "data/seattle-weather.csv"},
         "mark": "bar",
         "encoding": {
           "x": {
-            "bin": true,
-            "field": "IMDB_Rating",
-            "type": "quantitative"
+            "timeUnit": "month",
+            "field": "date",
+            "type": "ordinal"
           },
           "y": {
-            "aggregate": "count",
+            "aggregate": "mean",
+            "field": "precipitation",
             "type": "quantitative"
           }
         }
