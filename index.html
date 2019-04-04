@@ -6,29 +6,6 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
   </head>
-  <body>
-    <div id="vis"></div>
-
-    <script type="text/javascript">
-      var myMovieViz1 = {
-        "data": {"url": "data/seattle-weather.csv"},
-        "mark": "bar",
-        "encoding": {
-          "x": {
-            "timeUnit": "month",
-            "field": "date",
-            "type": "ordinal"
-          },
-          "y": {
-            "aggregate": "mean",
-            "field": "precipitation",
-            "type": "quantitative"
-          }
-        }
-      };
-      vegaEmbed('#vis', myMovieViz1);
-    </script>
-  </body>
   
   <body>
     <div id="vis2"></div>
@@ -74,6 +51,30 @@
         }
       };
       vegaEmbed('#vis3', stateMedicareEnrollee);
+    </script>
+  </body>
+  
+  <body>
+    <div id="vis"></div>
+
+    <script type="text/javascript">
+      var myMovieViz1 = {
+        "data": {"url": "data/seattle-weather.csv"},
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "timeUnit": "month",
+            "field": "date",
+            "type": "ordinal"
+          },
+          "y": {
+            "aggregate": "mean",
+            "field": "precipitation",
+            "type": "quantitative"
+          }
+        }
+      };
+      vegaEmbed('#vis', myMovieViz1);
     </script>
   </body>
 </html>
