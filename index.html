@@ -37,7 +37,7 @@
         "data": {"url": "data/medicare.csv"},
         "layer": [
           {
-            "mark": {"type": "line", "color": "red"},
+            "mark": {"type": "line", "color": "red", "point": true},
             "encoding": {
               "x": {
                 "field": "State name",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "mark": "line",
+            "mark": {"type": "line", "point": true},
             "encoding": {
               "x": {
                 "field": "State name",
