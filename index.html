@@ -35,17 +35,34 @@
     <script type="text/javascript">
       var stateTotalViz = {
         "data": {"url": "data/medicare.csv"},
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "field": "State name",
-            "type": "nominal"
+        "layer": [
+          {
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "State name",
+                "type": "nominal"
+              },
+              "y": {
+                "field": "Total Medicare reimbursements per enrollee - ASR",
+                "type": "quantitative"
+              }
+            }
           },
-          "y": {
-            "field": "Total Medicare reimbursements per enrollee - ASR",
-            "type": "quantitative"
+          {
+            "mark": "line",
+            "encoding": {
+              "x": {
+                "field": "State name",
+                "type": "nominal"
+              },
+              "y": {
+                "field": "Total Medicare reimbursements per enrollee - PASR",
+                "type": "quantitative"
+              }
+            }
           }
-        }
+        ]
       };
       vegaEmbed('#nameTotal', stateTotalViz);
     </script>
