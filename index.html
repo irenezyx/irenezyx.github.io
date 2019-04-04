@@ -31,25 +31,24 @@
   </body>
   
   <body>
-    <div id="visMedicare"></div>
+    <div id="medicareVis"></div>
 
     <script type="text/javascript">
-      var MedicareEnrollee = {
+      var MedicareEnrolleeViz = {
         "data": {"url": "data/medicare2014.csv"},
         "mark": "bar",
         "encoding": {
           "x": 
-            "field": "State name",
-            "type": "nominal"
+            "field": "State #",
+            "type": "ordinal"
           },
           "y": {
-            "field": "Medicare enrollees (2014)",
-            "type": "quantitative",
-            "axis": {"title": "Medicare enrollees in 2014"}
+            "field": "State name",
+            "type": "nominal"
           }
         }
       };
-      vegaEmbed('#visMedicare', MedicareEnrollee);
+      vegaEmbed('#medicareVis', MedicareEnrolleeViz);
     </script>
   </body>
   
