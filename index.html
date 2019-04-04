@@ -6,54 +6,6 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
   </head>
-  
-  <body>
-    <div id="vis2"></div>
-
-    <script type="text/javascript">
-      var myMovieViz2 = {
-        "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
-        "data": {"url": "data/movies.json"},
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "bin": true,
-            "field": "IMDB_Rating",
-            "type": "quantitative"
-          },
-          "y": {
-            "aggregate": "count",
-            "type": "quantitative"
-          }
-        }
-      };
-      vegaEmbed('#vis2', myMovieViz2);
-    </script>
-  </body>
-  
-  <body>
-    <div id="vis3"></div>
-
-    <script type="text/javascript">
-      var stateMedicareEnrollee = {
-        "data": {"url": "data/data.csv"},
-        "mark": "bar",
-        "encoding": {
-          "x": 
-            "field": "State name",
-            "type": "nominal"
-          },
-          "y": {
-            "field": "Medicare enrollees (2014)",
-            "type": "quantitative",
-            "axis": {"title": "Medicare enrollees in 2014"}
-          }
-        }
-      };
-      vegaEmbed('#vis3', stateMedicareEnrollee);
-    </script>
-  </body>
-  
   <body>
     <div id="vis"></div>
 
@@ -77,4 +29,28 @@
       vegaEmbed('#vis', myMovieViz1);
     </script>
   </body>
+  
+  <body>
+    <div id="visMedicare"></div>
+
+    <script type="text/javascript">
+      var MedicareEnrollee = {
+        "data": {"url": "data/data.csv"},
+        "mark": "bar",
+        "encoding": {
+          "x": 
+            "field": "State name",
+            "type": "nominal"
+          },
+          "y": {
+            "field": "Medicare enrollees (2014)",
+            "type": "quantitative",
+            "axis": {"title": "Medicare enrollees in 2014"}
+          }
+        }
+      };
+      vegaEmbed('#visMedicare', MedicareEnrollee);
+    </script>
+  </body>
+  
 </html>
