@@ -29,4 +29,28 @@
       vegaEmbed('#vis', myMovieViz1);
     </script>
   </body>
+  
+  <body>
+    <div id="vis2"></div>
+
+    <script type="text/javascript">
+      var myMovieViz2 = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+        "data": {"url": "data/movies.json"},
+        "mark": "line",
+        "encoding": {
+          "x": {
+            "bin": true,
+            "field": "IMDB_Rating",
+            "type": "quantitative"
+          },
+          "y": {
+            "aggregate": "count",
+            "type": "quantitative"
+          }
+        }
+      };
+      vegaEmbed('#vis2', myMovieViz2);
+    </script>
+  </body>
 </html>
