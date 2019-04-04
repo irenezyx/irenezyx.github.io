@@ -7,10 +7,10 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
   </head>
   <body>
-    <div id="vis"></div>
+    <div id="weatherVis"></div>
 
     <script type="text/javascript">
-      var myMovieViz1 = {
+      var weatherViz = {
         "data": {"url": "data/seattle-weather.csv"},
         "mark": "bar",
         "encoding": {
@@ -26,7 +26,7 @@
           }
         }
       };
-      vegaEmbed('#vis', myMovieViz1);
+      vegaEmbed('#weatherVis', weatherViz);
     </script>
   </body>
   
@@ -35,7 +35,7 @@
 
     <script type="text/javascript">
       var MedicareEnrollee = {
-        "data": {"url": "data/data.csv"},
+        "data": {"url": "data/medicare2014.csv"},
         "mark": "bar",
         "encoding": {
           "x": 
