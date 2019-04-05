@@ -11,7 +11,7 @@
     <div id="medicareVis"></div>
 
     <script type="text/javascript">
-      var statesMedicareViz = {
+      var statesMedicareViz =       {
         "data": {"url": "data/medicare.csv"},
         "vconcat": [
           {
@@ -81,6 +81,82 @@
                   }
                 ],
                 "resolve": {"scale": {"y": "independent"}}
+              }
+            ]
+          },
+          {
+            "hconcat": [
+              {
+                "layer": [
+                  {
+                    "mark": {"type": "point", "color": "#e7ba52"},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {
+                        "field": "Hospital & skilled nursing facility reimbursements per enrollee - ASR", 
+                        "type": "quantitative",
+                        "axis": {
+                          "title": "All kinds - ASR"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "mark": {"type": "point", "color": "#ff9896"},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Outpatient facility reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  },
+                  {
+                    "mark": {"type": "point", "color": "#aec7e8"},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Physician reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  },
+                  {
+                    "mark": {"type": "point", "color": "#1f77b4"},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Home health agency reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  },
+                  {
+                    "mark": {"type": "point", "color": "#9467bd"},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Hospice reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  },
+                  {
+                    "mark": {"type": "point", "color": "#d3eeb4"},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Durable medical equipment reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  }
+                ]
+              },
+              {
+                "mark": {"type":"point"},
+                "encoding": {
+                  "color": {
+                    "field": "fields",
+                    "type": "nominal",
+                    "scale": {
+                      "domain": [
+                        "Hospital & skilled nursing facility reimbursements per enrollee",
+                        "Outpatient facility reimbursements per enrollee",
+                        "Physician reimbursements per enrollee",
+                        "Home health agency reimbursements per enrollee",
+                        "Hospice reimbursements per enrollee",
+                        "Durable medical equipment reimbursements per enrollee"],
+                      "range": ["#e7ba52","#ff9896","#aec7e8","#1f77b4","#9467bd", "#d3eeb4"]
+                    },
+                    "legend": {"title": "fields"}
+                  }
+                }
               }
             ]
           }
