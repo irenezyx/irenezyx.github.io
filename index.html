@@ -13,16 +13,10 @@
     <script type="text/javascript">
       var stateEnrolleesViz = {
         "data": {"url": "data/medicare.csv"},
-        "mark": "bar",
+        "mark": "rect",
         "encoding": {
-          "x": {
-            "field": "State name",
-            "type": "nominal"
-          },
-          "y": {
-            "field": "Medicare enrollees (2014)",
-            "type": "quantitative"
-          }
+          "x": {"field": "State name", "type": "nominal"},
+          "color": { "field": "Medicare enrollees (2014)", "type": "quantitative"}
         }
       };
       vegaEmbed('#nameEnrollees', stateEnrolleesViz);
