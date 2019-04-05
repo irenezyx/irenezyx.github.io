@@ -11,7 +11,7 @@
     <div id="medicareVis"></div>
 
     <script type="text/javascript">
-      var statesMedicareViz = {
+      var statesMedicareViz =       {
         "data": {"url": "data/medicare.csv"},
         "vconcat": [
           {
@@ -40,7 +40,7 @@
                     "selection": {"biBrush": {"type": "interval"}},
                     "transform": [{"filter": {"selection": "brush"}}],
                     "mark": {
-                      "type": "line", 
+                      "type": "bar", 
                       "color": "#85C5A6", 
                       "point": {"fill": "#85C5A6"}
                     },
@@ -56,13 +56,13 @@
                           "title": "Total Medicare reimbursements per enrollee - ASR", 
                           "titleColor":"#85C5A6"
                         },
-                        "opacity": {"value": 0.9}
+                        "opacity": {"value": 0.6}
                       }
                     }
                   },
                   {
                     "transform": [{"filter": {"selection": "brush"}}],
-                    "mark": {"type": "line", "point": true},
+                    "mark": {"type": "bar", "point": true},
                     "encoding": {
                       "x": {
                         "field": "State name",
@@ -76,7 +76,7 @@
                           "titleColor":"#85A9C5"
                         }
                       },
-                      "opacity": {"value": 0.9}
+                      "opacity": {"value": 0.6}
                     }
                   }
                 ],
