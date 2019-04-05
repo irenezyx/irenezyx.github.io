@@ -35,16 +35,9 @@
           {
             "hconcat": [
               {
-                "transform": [{"filter": {"selection": "brush"}}],
-                "mark": "bar",
-                "encoding": {
-                  "x": {"field": "State name", "type": "nominal"},
-                  "y": {"field": "Medicare enrollees (2014)", "type": "quantitative"}
-                }
-              },
-              {
                 "layer": [
                   {
+                    "selection": {"biBrush": {"type": "interval"}},
                     "transform": [{"filter": {"selection": "brush"}}],
                     "mark": {
                       "type": "line", 
