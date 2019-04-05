@@ -13,7 +13,7 @@
     <script type="text/javascript">
       var statesMedicareViz = {
         "data": {"url": "data/medicare.csv"},
-        "vconcat":[
+        "vconcat": [
           {
             "selection": {"brush": {"type": "interval", "encodings": ["x"]}},
             "mark": "rect",
@@ -33,54 +33,66 @@
             }
           },
           {
-            "layer": [
+            "hconcat": [
               {
                 "transform": [{"filter": {"selection": "brush"}}],
-                "mark": {
-                  "type": "line", 
-                  "color": "#85C5A6", 
-                  "point": {"fill": "#85C5A6"}
-                },
+                "mark": "bar",
                 "encoding": {
-                  "x": {
-                    "field": "State name",
-                    "type": "nominal"
-                  },
-                  "y": {
-                    "field": "Total Medicare reimbursements per enrollee - ASR",
-                    "type": "quantitative",
-                    "axis": {
-                      "title": "Total Medicare reimbursements per enrollee - ASR", 
-                      "titleColor":"#85C5A6"
-                    },
-                    "opacity": {"value": 0.9}
-                  }
+                  "x": {"field": "State name", "type": "nominal"},
+                  "y": {"field": "Medicare enrollees (2014)", "type": "quantitative"}
                 }
               },
               {
-                "transform": [{"filter": {"selection": "brush"}}],
-                "mark": {"type": "line", "point": true},
-                "encoding": {
-                  "x": {
-                    "field": "State name",
-                    "type": "nominal"
-                  },
-                  "y": {
-                    "field": "Total Medicare reimbursements per enrollee - PASR",
-                    "type": "quantitative",
-                    "axis": {
-                      "title": "Total Medicare reimbursements per enrollee - PASR", 
-                      "titleColor":"#85A9C5"
+                "layer": [
+                  {
+                    "transform": [{"filter": {"selection": "brush"}}],
+                    "mark": {
+                      "type": "line", 
+                      "color": "#85C5A6", 
+                      "point": {"fill": "#85C5A6"}
+                    },
+                    "encoding": {
+                      "x": {
+                        "field": "State name",
+                        "type": "nominal"
+                      },
+                      "y": {
+                        "field": "Total Medicare reimbursements per enrollee - ASR",
+                        "type": "quantitative",
+                        "axis": {
+                          "title": "Total Medicare reimbursements per enrollee - ASR", 
+                          "titleColor":"#85C5A6"
+                        },
+                        "opacity": {"value": 0.9}
+                      }
                     }
                   },
-                  "opacity": {"value": 0.9}
-                }
+                  {
+                    "transform": [{"filter": {"selection": "brush"}}],
+                    "mark": {"type": "line", "point": true},
+                    "encoding": {
+                      "x": {
+                        "field": "State name",
+                        "type": "nominal"
+                      },
+                      "y": {
+                        "field": "Total Medicare reimbursements per enrollee - PASR",
+                        "type": "quantitative",
+                        "axis": {
+                          "title": "Total Medicare reimbursements per enrollee - PASR", 
+                          "titleColor":"#85A9C5"
+                        }
+                      },
+                      "opacity": {"value": 0.9}
+                    }
+                  }
+                ],
+                "resolve": {"scale": {"y": "independent"}}
               }
-            ],
-            "resolve": {"scale": {"y": "independent"}}
+            ]
           }
         ]
-      }
+      } 
       vegaEmbed('#medicareVis', statesMedicareViz);
     </script>
   </body>
