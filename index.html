@@ -11,7 +11,7 @@
     <div id="medicareVis"></div>
 
     <script type="text/javascript">
-      var statesMedicareViz =       {
+      var statesMedicareViz = {
         "data": {"url": "data/medicare.csv"},
         "vconcat": [
           {
@@ -85,10 +85,14 @@
             ]
           },
           {
-            "hconcat": [
+            "vconcat": [
               {
                 "layer": [
                   {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "BiBrush"}}
+                    ],
                     "mark": {"type": "point", "color": "#e7ba52"},
                     "encoding":{
                       "x": {"field": "State name", "type": "nominal"},
@@ -102,6 +106,10 @@
                     }
                   },
                   {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "BiBrush"}}
+                    ],
                     "mark": {"type": "point", "color": "#ff9896"},
                     "encoding":{
                       "x": {"field": "State name", "type": "nominal"},
@@ -109,6 +117,10 @@
                     }
                   },
                   {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "BiBrush"}}
+                    ],
                     "mark": {"type": "point", "color": "#aec7e8"},
                     "encoding":{
                       "x": {"field": "State name", "type": "nominal"},
@@ -116,6 +128,10 @@
                     }
                   },
                   {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "BiBrush"}}
+                    ],
                     "mark": {"type": "point", "color": "#1f77b4"},
                     "encoding":{
                       "x": {"field": "State name", "type": "nominal"},
@@ -123,6 +139,10 @@
                     }
                   },
                   {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "BiBrush"}}
+                    ],
                     "mark": {"type": "point", "color": "#9467bd"},
                     "encoding":{
                       "x": {"field": "State name", "type": "nominal"},
@@ -130,6 +150,10 @@
                     }
                   },
                   {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "BiBrush"}}
+                    ],
                     "mark": {"type": "point", "color": "#d3eeb4"},
                     "encoding":{
                       "x": {"field": "State name", "type": "nominal"},
