@@ -5,7 +5,7 @@
   <p> Welcome to the webpage of visualization for Medicare Spending of 2014 in U.S. by State Level! </p>
   <hr>
   <h3> Information about data set </h3>
-  <p> The source of this data set is data.world (https://data.world/adamhelsinger/county-state-medicare-spend) </p>
+  <p> The source of this data set is data.world (https://data.world/adamhelsinger/county-state-medicare-spend). </p>
   <p> It has public domain license and the size is 575 KB. </p>
   <p> 
     This data set describes the medicare spending of 2014 in each state of U.S. 
@@ -120,7 +120,7 @@
             ]
           },
           {
-            "vconcat": [
+            "hconcat": [
               {
                 "layer": [
                   {
@@ -129,8 +129,38 @@
                       {"filter": {"selection": "brush"}},
                       {"filter": {"selection": "biBrush"}}
                     ],
+                    "selection": {
+                      "Dropdown": {
+                        "type": "single",
+                        "fields": ["Range of Medicare enrollees (2014)"],
+                        "bind": {
+                          "input": "select", 
+                          "options": [
+                            null,
+                            "0 - 100,000",
+                            "100,000 - 200,000",
+                            "200,000 - 300,000",
+                            "300,000 - 400,000",
+                            "400,000 - 500,000",
+                            "500,000 - 600,000",
+                            "600,000 - 700,000",
+                            "700,000 - 800,000",
+                            "800,000 - 900,000",
+                            "900,000 - 1000,000",
+                            "1,000,000 - 2,000,000",
+                            "2,000,000 - 3,000,000"
+                          ]
+                        }
+                      }
+                    },
                     "mark": {"type": "line", "color": "#e7ba52", "point": {"fill": "#e7ba52"}},
                     "encoding":{
+                      "color": {
+                        "condition": {
+                          "selection": "Dropdown"
+                        },
+                        "value": "grey"
+                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {
                         "field": "Hospital & skilled nursing facility reimbursements per enrollee - ASR", 
@@ -148,6 +178,12 @@
                     ],
                     "mark": {"type": "line", "color": "#ff9896", "point": {"fill": "#ff9896"}},
                     "encoding":{
+                      "color": {
+                        "condition": {
+                          "selection": "Dropdown"
+                        },
+                        "value": "grey"
+                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Outpatient facility reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
@@ -159,6 +195,12 @@
                     ],
                     "mark": {"type": "line", "color": "#aec7e8", "point": {"fill": "#aec7e8"}},
                     "encoding":{
+                      "color": {
+                        "condition": {
+                          "selection": "Dropdown"
+                        },
+                        "value": "grey"
+                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Physician reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
@@ -170,6 +212,12 @@
                     ],
                     "mark": {"type": "line", "color": "#1f77b4", "point": {"fill": "#1f77b4"}},
                     "encoding":{
+                      "color": {
+                        "condition": {
+                          "selection": "Dropdown"
+                        },
+                        "value": "grey"
+                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Home health agency reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
@@ -181,6 +229,12 @@
                     ],
                     "mark": {"type": "line", "color": "#9467bd", "point": {"fill": "#9467bd"}},
                     "encoding":{
+                      "color": {
+                        "condition": {
+                          "selection": "Dropdown"
+                        },
+                        "value": "grey"
+                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Hospice reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
@@ -192,6 +246,12 @@
                     ],
                     "mark": {"type": "line", "color": "#d3eeb4", "point": {"fill": "#d3eeb4"}},
                     "encoding":{
+                      "color": {
+                        "condition": {
+                          "selection": "Dropdown"
+                        },
+                        "value": "grey"
+                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Durable medical equipment reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
