@@ -73,7 +73,7 @@
                   {
                     "title": "Total Medicare Reimbursements per Enrollee in Two Adjusting Methods of Selected States",
                     "selection": {"biBrush": {"type": "interval"}},
-                    "transform": [{"filter": {"selection": "brush"}}],
+                    "transform": [{"filter": {"selection": "brush"}}, {"filter": {"selection": "Dropdown"}}],
                     "mark": {
                       "type": "bar", 
                       "color": "#85C5A6", 
@@ -120,7 +120,7 @@
             ]
           },
           {
-            "vconcat": [
+            "hconcat": [
               {
                 "layer": [
                   {
