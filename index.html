@@ -5,7 +5,11 @@
   <p> Welcome to the webpage of visualization for Medicare Spending of 2014 in U.S. by State Level! </p>
   <hr>
   <h3> Information about data set </h3>
-  <p> The source of this data set is data.world (https://data.world/adamhelsinger/county-state-medicare-spend). </p>
+  <p> 
+    The source of this data set is 
+    <a href="https://data.world/adamhelsinger/county-state-medicare-spend">County & State Medicare Spend</a> 
+    on <a href="https://data.world/">data.world</a>.
+  </p>
   <p> It has public domain license and the size is 575 KB. </p>
   <p> 
     This data set describes the medicare spending of 2014 in each state of U.S. 
@@ -18,20 +22,38 @@
                         hospice reimbursements per enrollee,
                         and durable medical equipment reimbursements per enrollee.
   </p>
-  <p> There are two adjusting methods for the data, where "ASR" means age, sex, and race adjusted,
+  <p> 
+    There are two adjusting methods for the data, where "ASR" means age, sex, and race adjusted,
     and "PASR" means price, age, sex, and race adjusted.
+  </p>
+  <p>
+    For this web viz, I only extract the state level data, and the data has been performed data cleansing, reorganized and renamed some fields.
   </p>
   <hr>
   <h3> Illustration of visualizations </h3>
-  <p> There are three visualizations below which support brushing and linking. </p>
+  <p> There are three visualizations with a dropdown below which support brushing and linking. </p>
   <p> The first one is a heatmap with mark "rect". The color reflects the medicare enrollees of each state. 
     Selection in this visualization results in univariate modification of state names of thefollowing two visualizations.
   </p>
   <p> The second one demonstrates the comparison of two adjusting methods in 
     total medicare spending per enrollee for each selected states from the first visualization.
     You can further shrink the states to demonstrate 
-    in the 3rd visualization by selecting an interval in this visualization.
+    in the third visualization by selecting an interval in this visualization.
   </P>
+  <p> 
+    The third visualization demonstrates detailed medicare spending per enrollee.
+    Below it is a dropdown where you can select the range of medicare enrollees. 
+    This visualization only demonstrates data for the states selected both from 
+    the second visualization and the dropdown.
+  </p>
+  <p>
+    In the second visualization, only the states with name and 
+    Total Medicare reimbursements per enrollee of two methods all 
+    in the selected interval are selected. 
+    Therefore, this selection will lead to bivariate modifications to 
+    the third visualization. Besides, the selection in dropdown will also lead 
+    to a modification in both the second and the third visualization.
+  </p>
   
   <head>
     <title>Embedding Vega-Lite</title>
