@@ -120,15 +120,11 @@
             ]
           },
           {
-            "hconcat": [
+            "vconcat": [
               {
                 "layer": [
                   {
                     "title": "Spending with ASR Adjusted in Each Field for Selected States",
-                    "transform": [
-                      {"filter": {"selection": "brush"}},
-                      {"filter": {"selection": "biBrush"}}
-                    ],
                     "selection": {
                       "Dropdown": {
                         "type": "single",
@@ -153,14 +149,13 @@
                         }
                       }
                     },
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
+                    ],
                     "mark": {"type": "line", "color": "#e7ba52", "point": {"fill": "#e7ba52"}},
                     "encoding":{
-                      "color": {
-                        "condition": {
-                          "selection": "Dropdown"
-                        },
-                        "value": "grey"
-                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {
                         "field": "Hospital & skilled nursing facility reimbursements per enrollee - ASR", 
@@ -174,16 +169,11 @@
                   {
                     "transform": [
                       {"filter": {"selection": "brush"}},
-                      {"filter": {"selection": "biBrush"}}
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
                     ],
                     "mark": {"type": "line", "color": "#ff9896", "point": {"fill": "#ff9896"}},
                     "encoding":{
-                      "color": {
-                        "condition": {
-                          "selection": "Dropdown"
-                        },
-                        "value": "grey"
-                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Outpatient facility reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
@@ -191,16 +181,11 @@
                   {
                     "transform": [
                       {"filter": {"selection": "brush"}},
-                      {"filter": {"selection": "biBrush"}}
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
                     ],
                     "mark": {"type": "line", "color": "#aec7e8", "point": {"fill": "#aec7e8"}},
                     "encoding":{
-                      "color": {
-                        "condition": {
-                          "selection": "Dropdown"
-                        },
-                        "value": "grey"
-                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Physician reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
@@ -208,16 +193,11 @@
                   {
                     "transform": [
                       {"filter": {"selection": "brush"}},
-                      {"filter": {"selection": "biBrush"}}
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
                     ],
                     "mark": {"type": "line", "color": "#1f77b4", "point": {"fill": "#1f77b4"}},
                     "encoding":{
-                      "color": {
-                        "condition": {
-                          "selection": "Dropdown"
-                        },
-                        "value": "grey"
-                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Home health agency reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
@@ -225,16 +205,11 @@
                   {
                     "transform": [
                       {"filter": {"selection": "brush"}},
-                      {"filter": {"selection": "biBrush"}}
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
                     ],
                     "mark": {"type": "line", "color": "#9467bd", "point": {"fill": "#9467bd"}},
                     "encoding":{
-                      "color": {
-                        "condition": {
-                          "selection": "Dropdown"
-                        },
-                        "value": "grey"
-                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Hospice reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
@@ -242,16 +217,11 @@
                   {
                     "transform": [
                       {"filter": {"selection": "brush"}},
-                      {"filter": {"selection": "biBrush"}}
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
                     ],
                     "mark": {"type": "line", "color": "#d3eeb4", "point": {"fill": "#d3eeb4"}},
                     "encoding":{
-                      "color": {
-                        "condition": {
-                          "selection": "Dropdown"
-                        },
-                        "value": "grey"
-                      },
                       "x": {"field": "State name", "type": "nominal"},
                       "y": {"field": "Durable medical equipment reimbursements per enrollee - ASR", "type": "quantitative"}
                     }
