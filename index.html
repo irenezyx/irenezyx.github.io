@@ -1,6 +1,37 @@
 <!DOCTYPE html>
 <html>
-  <h2> Web Viz of Medicare Spending of 2014 in U.S. by State Level</h2>
+  <h2> Web Viz of Medicare Spending of 2014 in U.S. by State Level </h2>
+  <h6> by Yixin Zhang </h6>
+  <p> Welcome to the webpage of visualization for Medicare Spending of 2014 in U.S. by State Level! </p>
+  <hr>
+  <h5> Information about data set </h5>
+  <p> The source of this data set is data.world (https://data.world/adamhelsinger/county-state-medicare-spend) </p>
+  <p> It has public domain license and the size is 575 KB. </p>
+  <p> 
+    This data set describes the medicare spending of 2014 in each state of U.S. 
+    The data includes medicare enrollees and total medicare reimbursements per enrollee.
+    It also provides the spending of each specific field. 
+    The fields are: hospital & skilled nursing facility reimbursements per enrollee,
+                        outpatient facility reimbursements per enrollee,
+                        physician reimbursements per enrollee,
+                        home health agency reimbursements per enrollee,
+                        hospice reimbursements per enrollee,
+                        and durable medical equipment reimbursements per enrollee.
+  </p>
+  <p> There are two adjusting methods for the data, where "ASR" means age, sex, and race adjusted,
+    and "PASR" means price, age, sex, and race adjusted.
+  </p>
+  <hr>
+  <h5> Illustration of visualizations </h5>
+  <p> There are three visualizations below which support brushing and linking. </p>
+  <p> The first one is a heatmap with mark "rect". The color reflects the medicare enrollees of each state. 
+    Selection in this visualization results in univariate modification of state names of thefollowing two visualizations.
+  </p>
+  <p> The second one demonstrates the comparison of two adjusting methods in 
+    total medicare spending per enrollee for each selected states from the first visualization.
+    You can further shrink the states to demonstrate in the 3rd visualization.
+  </P>
+  
   <head>
     <title>Embedding Vega-Lite</title>
     <script src="https://cdn.jsdelivr.net/npm/vega@5.3.4"></script>
@@ -12,10 +43,11 @@
     <div id="medicareVis"></div>
 
     <script type="text/javascript">
-      var statesMedicareViz =       {
+      var statesMedicareViz = {
         "data": {"url": "data/medicare.csv"},
         "vconcat": [
           {
+            "title": "Medicare Enrollees of Each State in 2014",
             "selection": {"brush": {"type": "interval", "encodings": ["x"]}},
             "mark": "rect",
             "encoding": {
@@ -38,6 +70,7 @@
               {
                 "layer": [
                   {
+                    "title": "Total Medicare Reimbursements per Enrollee in Two Adjusting Methods of Selected States",
                     "selection": {"biBrush": {"type": "interval"}},
                     "transform": [{"filter": {"selection": "brush"}}],
                     "mark": {
@@ -90,6 +123,7 @@
               {
                 "layer": [
                   {
+                    "title": "Spending with ASR Adjusted in Each Field for Selected States",
                     "transform": [
                       {"filter": {"selection": "brush"}},
                       {"filter": {"selection": "biBrush"}}
@@ -101,7 +135,7 @@
                         "field": "Hospital & skilled nursing facility reimbursements per enrollee - ASR", 
                         "type": "quantitative",
                         "axis": {
-                          "title": "All kinds - ASR"
+                          "title": "Spending in each field - ASR"
                         }
                       }
                     }
