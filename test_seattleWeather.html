@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <h1> This is the test page using Seattle Weather data set 
+    at <a href="https://github.com/vega/vega/blob/master/docs/data/seattle-weather.csv">https://github.com/vega/vega/blob/master/docs/data/seattle-weather.csv</a>. </h1>
+  
+  <head>
+    <title>Embedding Vega-Lite</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.3.4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
+  </head>
+  
+  <body>
+    <div id="Vis"></div>
+
+    <script type="text/javascript">
+      var seattleWeatherViz = {
+        "data": {"url": "data/seattle-weather.csv"},
+        "mark": "bar",
+        "selection": {
+          "Field to Plot": {
+            "type": "single",
+            "bind": {"input": "select", "options": ["precipitation", "temp_max", "temp_min", "wind"]}
+          }
+        },
+        "encoding": {
+          "x": {
+            "timeUnit": "month",
+            "field": "date",
+            "type": "ordinal",
+            "axis": {"title": "date"}
+          },
+          "y": {
+            "aggregate": "mean",
+            "field": "wind", 
+            "type": "quantitative"
+          }
+        }
+      }
+      vegaEmbed('#Vis', seattleWeatherViz);
+    </script>
+  </body>
+  
+</html>
