@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <div id="Vis"></div>
+
+    <script type="text/javascript">
+      var seattleWeatherViz = {
+        "data": {"url": "data/seattle-weather.csv"},
+        "mark": "bar",
+        "selection": {
+          "names": {
+            "type": "single",
+            "bind": {"input": "select", "options": ["precipitation", "temp_max", "temp_min", "wind"]}
+          }
+        },
+        "encoding": {
+          "x": {
+            "timeUnit": "month",
+            "field": "date",
+            "type": "ordinal",
+            "axis": {"title": "date"}
+          },
+          "y": {
+            "aggregate": "mean",
+            "field": "wind", 
+            "type": "quantitative"
+          }
+        }
+      }
+      vegaEmbed('#Vis', seattleWeatherViz);
+    </script>
+  </body>
+  
+</html>

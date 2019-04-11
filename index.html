@@ -1,33 +1,287 @@
 <!DOCTYPE html>
 <html>
+  <h1> Web Viz of Medicare Spending of 2014 in U.S. by State Level </h1>
+  <h5> by Yixin Zhang </h5>
+  <p> Welcome to the webpage of visualization for Medicare Spending of 2014 in U.S. by State Level! </p>
+  <hr>
+  <h3> Information about data set </h3>
+  <p> 
+    The source of this data set is 
+    <a href="https://data.world/adamhelsinger/county-state-medicare-spend">County & State Medicare Spend</a> 
+    on <a href="https://data.world/">data.world</a>.
+  </p>
+  <p> It has public domain license and the size is 575 KB. </p>
+  <p> 
+    This data set describes the medicare spending of 2014 in each state of U.S. 
+    The data includes medicare enrollees and total medicare reimbursements per enrollee.
+    It also provides the spending of each specific field. 
+    The fields are: hospital & skilled nursing facility reimbursements per enrollee,
+                        outpatient facility reimbursements per enrollee,
+                        physician reimbursements per enrollee,
+                        home health agency reimbursements per enrollee,
+                        hospice reimbursements per enrollee,
+                        and durable medical equipment reimbursements per enrollee.
+  </p>
+  <p> 
+    There are two adjusting methods for the data, where "ASR" means age, sex, and race adjusted,
+    and "PASR" means price, age, sex, and race adjusted.
+  </p>
+  <p>
+    For this web viz, I only extract the state level data, and the data has been performed data cleansing, reorganized and renamed some fields.
+  </p>
+  <hr>
+  <h3> Illustration of visualizations </h3>
+  <p> There are three visualizations with a dropdown below which support brushing and linking. </p>
+  <p> The first one is a heatmap with mark "rect". The color reflects the medicare enrollees of each state. 
+    Selection in this visualization results in univariate modification of state names of the following two visualizations.
+  </p>
+  <p> The second one demonstrates the comparison of two adjusting methods in 
+    total medicare spending per enrollee for each selected states from the first visualization.
+    You can further shrink the states to demonstrate 
+    in the third visualization by selecting an interval in this visualization.
+  </P>
+  <p> 
+    The third visualization demonstrates detailed medicare spending per enrollee.
+    Below it is a dropdown where you can select the range of medicare enrollees. 
+    This visualization only demonstrates data for the states selected both from 
+    the second visualization and the dropdown.
+  </p>
+  <p>
+    In the second visualization, only the states with name and 
+    Total Medicare reimbursements per enrollee of two methods all 
+    in the selected interval are selected. 
+    Besides, the selection in dropdown will also lead 
+    to a modification in both the second and the third visualization. 
+    The dropdown and selection of state names in the first visualization perform bivariate modifications 
+    to the second and third visualization.
+  </p>
+  <hr>
+  <h3> Notes for interactive operations </h3>
+  <p> Try brush in the first and second viz! </p>
+  <p> Try select from the dropdown at the bottom! </p>
+  <hr>
+  <h3> Visualizations </h3>
+  
+  <head>
+    <title>Embedding Vega-Lite</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.3.4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
+  </head>
+
   <body>
-    <div id="Vis"></div>
+    <div id="medicareVis"></div>
 
     <script type="text/javascript">
-      var seattleWeatherViz = {
-        "data": {"url": "data/seattle-weather.csv"},
-        "mark": "bar",
-        "selection": {
-          "names": {
-            "type": "single",
-            "bind": {"input": "select", "options": ["precipitation", "temp_max", "temp_min", "wind"]}
-          }
-        },
-        "encoding": {
-          "x": {
-            "timeUnit": "month",
-            "field": "date",
-            "type": "ordinal",
-            "axis": {"title": "date"}
+      var statesMedicareViz = {
+        "data": {"url": "data/medicare.csv"},
+        "vconcat": [
+          {
+            "title": "Medicare Enrollees of Each State in 2014",
+            "selection": {"brush": {"type": "interval", "encodings": ["x"]}},
+            "mark": "rect",
+            "encoding": {
+              "x": {
+                "field": "State name", 
+                "type": "nominal"
+              },
+              "color": { 
+                "condition": {
+                  "selection": "brush",
+                  "field": "Medicare enrollees (2014)", 
+                  "type": "quantitative"
+                },
+                "value": "grey"
+              }
+            }
           },
-          "y": {
-            "aggregate": "mean",
-            "field": "wind", 
-            "type": "quantitative"
+          {
+            "hconcat": [
+              {
+                "layer": [
+                  {
+                    "title": "Total Medicare Reimbursements per Enrollee in Two Adjusting Methods of Selected States",
+                    "selection": {"biBrush": {"type": "interval"}},
+                    "transform": [{"filter": {"selection": "brush"}}, {"filter": {"selection": "Dropdown"}}],
+                    "mark": {
+                      "type": "bar", 
+                      "color": "#85C5A6", 
+                      "point": {"fill": "#85C5A6"}
+                    },
+                    "encoding": {
+                      "x": {
+                        "field": "State name",
+                        "type": "nominal"
+                      },
+                      "y": {
+                        "field": "Total Medicare reimbursements per enrollee - ASR",
+                        "type": "quantitative",
+                        "axis": {
+                          "title": "Total Medicare reimbursements per enrollee - ASR", 
+                          "titleColor":"#85C5A6"
+                        },
+                        "opacity": {"value": 0.6}
+                      }
+                    }
+                  },
+                  {
+                    "transform": [{"filter": {"selection": "brush"}}],
+                    "mark": {"type": "bar", "point": true},
+                    "encoding": {
+                      "x": {
+                        "field": "State name",
+                        "type": "nominal"
+                      },
+                      "y": {
+                        "field": "Total Medicare reimbursements per enrollee - PASR",
+                        "type": "quantitative",
+                        "axis": {
+                          "title": "Total Medicare reimbursements per enrollee - PASR", 
+                          "titleColor":"#85A9C5"
+                        }
+                      },
+                      "opacity": {"value": 0.6}
+                    }
+                  }
+                ],
+                "resolve": {"scale": {"y": "independent"}}
+              }
+            ]
+          },
+          {
+            "hconcat": [
+              {
+                "layer": [
+                  {
+                    "title": "Spending with ASR Adjusted in Each Field for Selected States",
+                    "selection": {
+                      "Dropdown": {
+                        "type": "single",
+                        "fields": ["Range of Medicare enrollees (2014)"],
+                        "bind": {
+                          "input": "select", 
+                          "options": [
+                            null,
+                            "0 - 100,000",
+                            "100,000 - 200,000",
+                            "200,000 - 300,000",
+                            "300,000 - 400,000",
+                            "400,000 - 500,000",
+                            "500,000 - 600,000",
+                            "600,000 - 700,000",
+                            "700,000 - 800,000",
+                            "800,000 - 900,000",
+                            "900,000 - 1000,000",
+                            "1,000,000 - 2,000,000",
+                            "2,000,000 - 3,000,000"
+                          ]
+                        }
+                      }
+                    },
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
+                    ],
+                    "mark": {"type": "line", "color": "#e7ba52", "point": {"fill": "#e7ba52"}},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {
+                        "field": "Hospital & skilled nursing facility reimbursements per enrollee - ASR", 
+                        "type": "quantitative",
+                        "axis": {
+                          "title": "Spending in each field - ASR"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
+                    ],
+                    "mark": {"type": "line", "color": "#ff9896", "point": {"fill": "#ff9896"}},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Outpatient facility reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  },
+                  {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
+                    ],
+                    "mark": {"type": "line", "color": "#aec7e8", "point": {"fill": "#aec7e8"}},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Physician reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  },
+                  {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
+                    ],
+                    "mark": {"type": "line", "color": "#1f77b4", "point": {"fill": "#1f77b4"}},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Home health agency reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  },
+                  {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
+                    ],
+                    "mark": {"type": "line", "color": "#9467bd", "point": {"fill": "#9467bd"}},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Hospice reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  },
+                  {
+                    "transform": [
+                      {"filter": {"selection": "brush"}},
+                      {"filter": {"selection": "biBrush"}},
+                      {"filter": {"selection": "Dropdown"}}
+                    ],
+                    "mark": {"type": "line", "color": "#d3eeb4", "point": {"fill": "#d3eeb4"}},
+                    "encoding":{
+                      "x": {"field": "State name", "type": "nominal"},
+                      "y": {"field": "Durable medical equipment reimbursements per enrollee - ASR", "type": "quantitative"}
+                    }
+                  }
+                ]
+              },
+              {
+                "mark": {"type":"point"},
+                "encoding": {
+                  "color": {
+                    "field": "fields",
+                    "type": "nominal",
+                    "scale": {
+                      "domain": [
+                        "Hospital & skilled nursing facility reimbursements per enrollee",
+                        "Outpatient facility reimbursements per enrollee",
+                        "Physician reimbursements per enrollee",
+                        "Home health agency reimbursements per enrollee",
+                        "Hospice reimbursements per enrollee",
+                        "Durable medical equipment reimbursements per enrollee"],
+                      "range": ["#e7ba52","#ff9896","#aec7e8","#1f77b4","#9467bd", "#d3eeb4"]
+                    },
+                    "legend": {"title": "fields"}
+                  }
+                }
+              }
+            ]
           }
-        }
+        ]
       }
-      vegaEmbed('#Vis', seattleWeatherViz);
+      vegaEmbed('#medicareVis', statesMedicareViz);
     </script>
   </body>
   
