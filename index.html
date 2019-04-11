@@ -1,0 +1,23 @@
+{
+  "data": {"url": "data/seattle-weather.csv"},
+  "mark": "bar",
+  "selection": {
+    "names": {
+      "type": "single",
+      "bind": {"input": "select", "options": ["precipitation", "temp_max", "temp_min", "wind"]}
+    }
+  },
+  "encoding": {
+    "x": {
+      "timeUnit": "month",
+      "field": "date",
+      "type": "ordinal",
+      "axis": {"title": "date"}
+    },
+    "y": {
+      "aggregate": "mean",
+      "field": "wind", 
+      "type": "quantitative"
+    }
+  }
+}
