@@ -1,0 +1,918 @@
+,Name,Allegiances,Death Year,Book of Death,Death Chapter,Book Intro Chapter,Gender,Nobility,GoT,CoK,SoS,FfC,DwD,First Name,Last Name
+0,Addam Marbrand,Lannister,-1,-1,-1,56,1,1,1,1,1,1,0,Addam,Marbrand
+1,Aegon Frey (Jinglebell),None,299,3,51,49,1,1,0,0,1,0,0,Aegon,Frey
+2,Aegon Targaryen,Targaryen,-1,-1,-1,5,1,1,0,0,0,0,1,Aegon,Targaryen
+3,Adrack Humble,Greyjoy,300,5,20,20,1,1,0,0,0,0,1,Adrack,Humble
+4,Aemon Costayne,Lannister,-1,-1,-1,-1,1,1,0,0,1,0,0,Aemon,Costayne
+5,Aemon Estermont,Baratheon,-1,-1,-1,-1,1,1,0,1,1,0,0,Aemon,Estermont
+6,Aemon Targaryen (son of Maekar I),Night's Watch,300,4,35,21,1,1,1,0,1,1,0,Aemon,Targaryen
+7,Aenys Frey,None,300,5,-1,59,0,1,1,1,1,0,1,Aenys,Frey
+8,Aeron Greyjoy,Greyjoy,-1,-1,-1,11,1,1,0,1,0,1,0,Aeron,Greyjoy
+9,Aethan,Night's Watch,-1,-1,-1,0,1,0,0,0,1,0,0,Aethan,Unknown
+10,Aggar,Greyjoy,299,2,56,50,1,0,0,1,0,0,0,Aggar,Unknown
+11,Aggo,Targaryen,-1,-1,-1,54,1,0,1,1,1,0,1,Aggo,Unknown
+12,Alan of Rosby,Night's Watch,300,5,4,18,1,1,0,1,1,0,1,Alan,of
+13,Alayaya,None,-1,-1,-1,15,0,0,0,1,0,0,0,Alayaya,Unknown
+14,Albar Royce,Arryn,-1,-1,-1,38,1,1,1,0,0,1,0,Albar,Royce
+15,Albett,Night's Watch,-1,-1,-1,26,1,0,1,0,0,0,0,Albett,Unknown
+16,Alebelly,Stark,299,2,46,4,1,0,0,1,0,0,0,Alebelly,Unknown
+17,Alerie Hightower,Tyrell,-1,-1,-1,6,0,1,0,0,1,1,0,Alerie,Hightower
+18,Alesander Staedmon,Baratheon,-1,-1,-1,65,1,1,0,1,0,0,0,Alesander,Staedmon
+19,Alester Florent,Baratheon,300,4,-1,36,1,1,0,1,1,0,0,Alester,Florent
+20,Alia of Braavos,None,-1,-1,-1,28,0,0,1,0,0,0,0,Alia,of
+21,Alla Tyrell,Tyrell,-1,-1,-1,6,0,1,0,0,1,1,0,Alla,Tyrell
+22,Allard Seaworth,Baratheon,299,2,10,10,1,1,0,1,0,0,0,Allard,Seaworth
+23,Alliser Thorne,Night's Watch,-1,-1,-1,19,1,0,1,1,1,0,1,Alliser,Thorne
+24,Alyn,Stark,298,3,34,12,1,0,1,0,0,0,0,Alyn,Unknown
+25,Alyn Ambrose,Tyrell,-1,-1,-1,59,1,1,0,1,0,1,0,Alyn,Ambrose
+26,Alyn Estermont,Baratheon,-1,-1,-1,-1,1,1,0,1,1,0,0,Alyn,Estermont
+27,Alyn Stackspear,Lannister,-1,-1,-1,16,1,1,0,0,0,1,0,Alyn,Stackspear
+28,Alys Karstark,Stark,-1,-1,-1,44,0,1,0,0,0,0,1,Alys,Karstark
+29,Alysane Mormont,Stark,-1,-1,-1,35,0,1,0,0,0,0,1,Alysane,Mormont
+30,Alyx Frey,None,-1,-1,-1,49,1,1,0,0,1,0,0,Alyx,Frey
+31,Ambrode,Greyjoy,-1,-1,-1,24,1,0,0,1,0,0,0,Ambrode,Unknown
+32,Amory Lorch,Lannister,299,2,47,14,1,1,0,1,0,0,0,Amory,Lorch
+33,Andar Royce,Arryn,-1,-1,-1,29,1,1,1,0,0,0,0,Andar,Royce
+34,Andrew Estermont,Baratheon,-1,-1,-1,36,1,1,0,0,1,0,0,Andrew,Estermont
+35,Andrey Dalt,Martell,-1,-1,-1,21,1,1,0,0,0,1,0,Andrey,Dalt
+36,Andrik,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Andrik,Unknown
+37,Anguy,None,-1,-1,-1,30,1,0,1,0,1,0,0,Anguy,Unknown
+38,Antario Jast,Lannister,-1,-1,-1,32,1,1,0,1,0,0,0,Antario,Jast
+39,Anvil Ryn,None,299,3,34,34,1,0,0,0,1,0,0,Anvil,Ryn
+40,Anya Waynwood,Arryn,-1,-1,-1,38,0,1,1,0,0,1,0,Anya,Waynwood
+41,Archibald Yronwood,Martell,-1,-1,-1,6,1,1,0,0,0,0,1,Archibald,Yronwood
+42,Ardrian Celtigar,Baratheon,-1,-1,-1,10,1,1,0,1,1,0,0,Ardrian,Celtigar
+43,Areo Hotah,Martell,-1,-1,-1,2,1,0,0,0,0,1,1,Areo,Hotah
+44,Arianne Martell,Martell,-1,-1,-1,2,0,1,0,0,0,1,1,Arianne,Martell
+45,Arneld,Lannister,-1,-1,-1,59,1,0,0,1,0,0,0,Arneld,Unknown
+46,Arnolf Karstark,Stark,-1,-1,-1,3,1,1,0,0,0,0,1,Arnolf,Karstark
+47,Aron Santagar,Lannister,299,2,41,18,1,1,1,1,0,0,0,Aron,Santagar
+48,Arron,Night's Watch,-1,-1,-1,75,1,0,0,0,1,0,1,Arron,Unknown
+49,Arron Qorgyle,Martell,-1,-1,-1,38,1,1,0,0,1,0,0,Arron,Qorgyle
+50,Arryk (Guard),Tyrell,-1,-1,-1,6,1,0,0,0,1,1,0,Arryk,Unknown
+51,Arson,Wildling,-1,-1,-1,26,1,0,0,0,1,0,0,Arson,Unknown
+52,Arthor Karstark,Stark,-1,-1,-1,62,1,1,0,0,0,0,1,Arthor,Karstark
+53,Arwyn Frey,None,-1,-1,-1,49,0,1,0,0,1,0,0,Arwyn,Frey
+54,Arwyn Oakheart,Tyrell,-1,-1,-1,22,0,1,0,1,0,0,0,Arwyn,Oakheart
+55,Arya Stark,Stark,-1,-1,-1,2,0,1,1,1,1,1,1,Arya,Stark
+56,Arys Oakheart,Lannister,300,4,21,57,1,1,1,1,0,1,0,Arys,Oakheart
+57,Asha Greyjoy,Greyjoy,-1,-1,-1,11,0,1,0,1,0,1,1,Asha,Greyjoy
+58,Aurane Waters,Lannister,-1,-1,-1,65,1,0,0,1,0,1,0,Aurane,Waters
+59,Axell Florent,Baratheon,-1,-1,-1,0,1,1,0,1,1,0,1,Axell,Florent
+60,Azzak,None,-1,-1,-1,2,1,1,0,0,0,0,1,Azzak,Unknown
+61,Ballabar,Lannister,-1,-1,-1,4,1,0,0,1,0,0,0,Ballabar,Unknown
+62,Balon Swann,Lannister,-1,-1,-1,29,1,1,1,1,1,1,1,Balon,Swann
+63,Bannen,Night's Watch,299,3,33,0,1,0,0,0,1,0,0,Bannen,Unknown
+64,Barbrey Dustin,Stark,-1,-1,-1,26,0,1,0,0,0,0,1,Barbrey,Dustin
+65,Barra,None,299,2,39,35,0,0,1,0,0,0,0,Barra,Unknown
+66,Barristan Selmy,Targaryen,-1,-1,-1,15,1,1,1,1,1,0,1,Barristan,Selmy
+67,Barsena,None,300,5,52,11,0,0,0,0,0,0,1,Barsena,Unknown
+68,Barth (brewer),Stark,-1,-1,-1,50,1,0,0,1,0,0,0,Barth,Unknown
+69,Bass,Night's Watch,-1,-1,-1,52,1,0,1,0,0,0,0,Bass,Unknown
+70,Bayard Norcross,Tyrell,-1,-1,-1,28,1,1,0,0,0,1,0,Bayard,Norcross
+71,Bearded Ben,Night's Watch,-1,-1,-1,-1,1,0,0,0,0,1,0,Bearded,Ben
+72,Becca,Arryn,-1,-1,-1,12,0,0,1,0,0,0,0,Becca,Unknown
+73,Becca the Baker,None,299,3,34,34,0,0,0,0,1,0,0,Becca,the
+74,Bedwyck,Night's Watch,-1,-1,-1,13,1,0,0,1,1,0,1,Bedwyck,Unknown
+75,Belaquo,None,-1,-1,-1,52,1,0,0,0,0,0,1,Belaquo,Unknown
+76,Bella,None,-1,-1,-1,29,0,0,0,0,1,0,0,Bella,Unknown
+77,Bellegere Otherys (courtesan),None,-1,-1,-1,34,0,1,0,0,0,1,0,Bellegere,Otherys
+78,Bellonara Otherys,None,-1,-1,-1,34,0,1,0,0,0,1,0,Bellonara,Otherys
+79,Belwas,Targaryen,-1,-1,-1,63,1,0,0,1,1,0,1,Belwas,Unknown
+80,Ben,None,-1,-1,-1,37,1,0,0,0,0,1,0,Ben,Unknown
+81,Ben Bones,None,-1,-1,-1,12,1,0,0,0,0,0,1,Ben,Bones
+82,Ben Plumm,None,-1,-1,-1,57,1,0,0,0,1,0,1,Ben,Plumm
+83,Benedar Belmore,Arryn,-1,-1,-1,23,1,1,0,0,0,1,0,Benedar,Belmore
+84,Benfred Tallhart,Stark,299,2,37,16,1,1,0,1,0,0,0,Benfred,Tallhart
+85,Benfrey Frey,None,299,5,51,51,1,1,0,0,1,0,0,Benfrey,Frey
+86,Benjen Stark,Night's Watch,298,1,24,5,1,1,1,0,0,0,0,Benjen,Stark
+87,Bennet,None,300,4,31,31,1,0,0,0,0,1,0,Bennet,Unknown
+88,Beric Dondarrion,None,300,4,27,42,1,1,1,0,1,0,0,Beric,Dondarrion
+89,Bessa (Winterfell),Stark,-1,-1,-1,37,0,0,1,0,0,0,0,Bessa,Unknown
+90,Beth Cassel,Stark,-1,-1,-1,7,0,1,1,1,0,0,0,Beth,Cassel
+91,Bhakaz zo Loraq,None,-1,-1,-1,2,1,1,0,0,0,0,1,Bhakaz,zo
+92,Big Boil,Wildling,-1,-1,-1,41,1,0,0,0,1,0,0,Big,Boil
+93,Big Walder Frey,None,-1,-1,-1,-1,1,1,1,1,0,0,1,Big,Walder
+94,Biter,None,300,4,37,1,1,0,0,1,0,1,0,Biter,Unknown
+95,Black Bernarr,Night's Watch,-1,-1,-1,18,1,0,0,0,1,0,1,Black,Bernarr
+96,Black Walder Frey,None,-1,-1,-1,35,1,1,0,0,1,0,0,Black,Walder
+97,Blane,Night's Watch,-1,-1,-1,23,1,0,0,1,0,0,0,Blane,Unknown
+98,Bloodbeard,None,-1,-1,-1,25,1,0,0,0,0,0,1,Bloodbeard,Unknown
+99,Blue Bard,Tyrell,-1,-1,-1,12,1,0,0,0,0,1,0,Blue,Bard
+100,Bonifer Hasty,Lannister,-1,-1,-1,65,1,1,0,1,0,1,0,Bonifer,Hasty
+101,Borcas,Night's Watch,-1,-1,-1,48,1,0,1,0,0,0,0,Borcas,Unknown
+102,Boremund Harlaw,Greyjoy,-1,-1,-1,11,1,1,0,0,0,1,0,Boremund,Harlaw
+103,Boros Blount,Baratheon,-1,-1,-1,8,1,1,1,1,1,1,1,Boros,Blount
+104,Borroq,Wildling,-1,-1,-1,0,1,0,0,0,0,0,1,Borroq,Unknown
+105,Bowen Marsh,Night's Watch,-1,-1,-1,21,1,0,1,0,1,0,1,Bowen,Marsh
+106,Bran Stark,Stark,-1,-1,-1,1,1,1,1,1,1,0,1,Bran,Stark
+107,Brandon Norrey,Stark,-1,-1,-1,49,1,1,0,0,0,0,1,Brandon,Norrey
+108,Brenett,None,-1,-1,-1,49,1,0,0,0,1,0,0,Brenett,Unknown
+109,Brienne of Tarth,Stark,-1,-1,-1,22,0,1,0,1,1,1,1,Brienne,of
+110,Bronn,Lannister,-1,-1,-1,28,1,1,1,1,1,0,0,Bronn,Unknown
+111,Brown Bernarr,Night's Watch,299,3,33,23,1,0,0,1,1,0,0,Brown,Bernarr
+112,Brusco,None,-1,-1,-1,22,1,0,0,0,0,1,1,Brusco,Unknown
+113,Bryan Fossoway,Baratheon,299,2,62,42,1,1,1,1,0,0,0,Bryan,Fossoway
+114,Bryce Caron,Baratheon,299,2,65,29,1,1,1,1,0,0,0,Bryce,Caron
+115,Bryen,None,-1,-1,-1,68,1,0,0,0,1,0,0,Bryen,Unknown
+116,Bryen Farring,Baratheon,300,5,62,10,1,1,0,1,0,0,1,Bryen,Farring
+117,Brynden Rivers,Targaryen,-1,-1,-1,34,1,1,0,0,0,0,1,Brynden,Rivers
+118,Brynden Tully,Tully,-1,-1,-1,2,1,1,1,1,1,1,0,Brynden,Tully
+119,Burton Crakehall,Lannister,299,2,7,55,1,1,1,1,0,0,0,Burton,Crakehall
+120,Butterbumps,Tyrell,-1,-1,-1,6,1,0,0,0,1,0,0,Butterbumps,Unknown
+121,Byam Flint,Night's Watch,299,3,33,33,1,0,0,0,1,0,0,Byam,Flint
+122,Byan Votyris,None,-1,-1,-1,54,1,0,1,0,0,0,0,Byan,Votyris
+123,Byron,Arryn,-1,-1,-1,41,1,0,0,0,0,1,0,Byron,Unknown
+124,Cadwyn,Lannister,-1,-1,-1,47,1,0,0,1,0,0,0,Cadwyn,Unknown
+125,Caleotte,Martell,-1,-1,-1,2,1,0,0,0,0,1,1,Caleotte,Unknown
+126,Catelyn Tully,Stark,299,3,51,2,0,1,1,1,1,0,0,Catelyn,Tully
+127,Cayn,Stark,298,1,49,4,1,0,1,0,0,0,0,Cayn,Unknown
+128,Cellador,Night's Watch,-1,-1,-1,48,1,0,1,0,1,0,1,Cellador,Unknown
+129,Cersei Frey,None,-1,-1,-1,49,0,1,0,0,1,0,0,Cersei,Frey
+130,Cersei Lannister,Lannister,-1,-1,-1,4,0,1,1,1,1,1,1,Cersei,Lannister
+131,Chataya,None,-1,-1,-1,15,0,0,0,1,0,0,0,Chataya,Unknown
+132,Chayle,Stark,299,2,50,9,1,0,1,1,0,0,0,Chayle,Unknown
+133,Chella,Lannister,-1,-1,-1,56,0,0,1,1,1,0,0,Chella,Unknown
+134,Chett,Night's Watch,299,3,46,41,1,0,1,1,1,0,0,Chett,Unknown
+135,Chiggen,Lannister,298,1,42,31,1,0,1,0,0,0,0,Chiggen,Unknown
+136,Chiswyck,None,299,2,30,26,1,0,0,1,0,0,0,Chiswyck,Unknown
+137,Clayton Suggs,Baratheon,-1,-1,-1,17,1,0,0,0,0,0,1,Clayton,Suggs
+138,Clement Piper,Tully,-1,-1,-1,38,1,1,0,0,0,1,0,Clement,Piper
+139,Cleos Frey,None,299,3,21,7,1,1,0,1,1,0,0,Cleos,Frey
+140,Cley Cerwyn,Stark,299,2,66,16,1,1,0,1,0,0,0,Cley,Cerwyn
+141,Clubfoot Karl,Night's Watch,300,5,4,0,1,0,0,0,1,0,1,Clubfoot,Karl
+142,Clydas,Night's Watch,-1,-1,-1,41,1,0,1,0,1,1,1,Clydas,Unknown
+143,Cohollo,None,298,1,64,11,1,0,1,0,0,0,0,Cohollo,Unknown
+144,Coldhands,None,-1,-1,-1,46,1,0,0,0,1,0,1,Coldhands,Unknown
+145,Colemon,Arryn,-1,-1,-1,34,1,0,1,0,1,1,0,Colemon,Unknown
+146,Colen of Greenpools,Baratheon,-1,-1,-1,22,1,1,0,1,0,0,0,Colen,of
+147,Conn,Lannister,298,1,62,42,1,0,1,0,0,0,0,Conn,Unknown
+148,Conwy,Night's Watch,-1,-1,-1,6,1,0,0,1,0,0,0,Conwy,Unknown
+149,Corliss Penny,Baratheon,-1,-1,-1,26,1,0,0,0,0,0,1,Corliss,Penny
+150,Cortnay Penrose,Baratheon,299,2,42,31,1,1,0,1,0,0,0,Cortnay,Penrose
+151,Cotter Pyke,Night's Watch,-1,-1,-1,48,1,0,0,0,1,0,0,Cotter,Pyke
+152,Cragorn,Greyjoy,300,4,29,19,1,0,0,0,0,1,0,Cragorn,Unknown
+153,Craster,None,299,3,33,23,1,0,0,1,1,0,0,Craster,Unknown
+154,Cregan Karstark,Stark,-1,-1,-1,44,1,1,0,0,0,0,1,Cregan,Karstark
+155,Creighton Longbough,None,-1,-1,-1,4,1,0,0,0,0,1,0,Creighton,Longbough
+156,Cressen,Baratheon,299,1,0,0,1,0,0,1,0,0,0,Cressen,Unknown
+157,Cuger,Night's Watch,-1,-1,-1,-1,1,0,1,0,0,0,0,Cuger,Unknown
+158,Cutjack,None,-1,-1,-1,5,1,0,0,1,0,0,0,Cutjack,Unknown
+159,Daario Naharis,Targaryen,-1,-1,-1,42,1,0,0,0,1,0,1,Daario,Naharis
+160,Dacey Mormont,Stark,299,3,51,63,0,1,1,0,1,0,0,Dacey,Mormont
+161,Daemon Sand,Martell,-1,-1,-1,38,1,0,0,0,1,0,1,Daemon,Sand
+162,Daenerys Targaryen,Targaryen,-1,-1,-1,3,0,1,1,1,1,0,1,Daenerys,Targaryen
+163,Dagon Codd,Greyjoy,300,5,20,20,1,1,0,0,0,0,1,Dagon,Codd
+164,Dagmer,Greyjoy,-1,-1,-1,11,1,0,0,1,0,0,0,Dagmer,Unknown
+165,Dalbridge,Night's Watch,299,2,53,43,1,0,0,1,0,0,0,Dalbridge,Unknown
+166,Dale Seaworth,Baratheon,299,2,58,10,1,1,0,1,0,0,0,Dale,Seaworth
+167,Dalla,Wildling,300,3,76,73,0,1,0,0,1,0,0,Dalla,Unknown
+168,Dalla (Dragonstone),Baratheon,-1,-1,-1,0,0,0,0,1,0,0,0,Dalla,Unknown
+169,Damon Dance-for-Me,None,-1,-1,-1,12,1,0,0,0,0,0,1,Damon,Dance-for-Me
+170,Damon Vypren,None,-1,-1,-1,49,1,1,0,0,1,0,0,Damon,Vypren
+171,Dancy,None,-1,-1,-1,29,0,0,0,1,0,0,0,Dancy,Unknown
+172,Danwell Frey,None,-1,-1,-1,59,1,1,1,1,1,1,0,Danwell,Frey
+173,Dareon,Night's Watch,300,4,34,19,1,0,1,0,0,1,0,Dareon,Unknown
+174,Daryn Hornwood,Stark,298,1,63,63,1,1,1,0,0,0,0,Daryn,Hornwood
+175,Daven Lannister,Lannister,-1,-1,-1,12,1,1,0,0,0,1,0,Daven,Lannister
+176,Davos Seaworth,Baratheon,-1,-1,-1,0,1,1,0,1,1,0,1,Davos,Seaworth
+177,Del,Wildling,299,3,41,41,1,0,0,0,1,0,0,Del,Unknown
+178,Delp,Tully,299,3,20,39,1,0,0,1,1,0,0,Delp,Unknown
+179,Denys Drumm,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Denys,Drumm
+180,Denys Mallister,Night's Watch,-1,-1,-1,48,1,1,0,0,1,0,0,Denys,Mallister
+181,Dermot,Baratheon,-1,-1,-1,65,1,0,0,1,0,1,0,Dermot,Unknown
+182,Desmond,Stark,298,1,50,1,1,0,1,0,0,0,0,Desmond,Unknown
+183,Desmond Grell,Tully,-1,-1,-1,7,1,1,0,1,1,1,0,Desmond,Grell
+184,Devan Seaworth,Baratheon,-1,-1,-1,10,1,1,0,1,1,0,1,Devan,Seaworth
+185,Deziel Dalt,Martell,-1,-1,-1,38,1,1,0,0,1,0,1,Deziel,Dalt
+186,Dhazzar,None,-1,-1,-1,2,1,1,0,0,0,0,1,Dhazzar,Unknown
+187,Dick Crabb,None,300,4,20,9,1,0,0,0,0,1,0,Dick,Crabb
+188,Dick Follard,Night's Watch,299,3,55,41,1,0,0,0,1,0,0,Dick,Follard
+189,Dickon Manwoody,Martell,-1,-1,-1,38,1,1,0,0,1,0,0,Dickon,Manwoody
+190,Dirk,Night's Watch,300,5,4,0,1,0,0,0,1,0,1,Dirk,Unknown
+191,Dobber,None,299,2,14,5,1,0,0,1,0,0,0,Dobber,Unknown
+192,Donal Noye,Night's Watch,300,3,64,19,1,0,1,1,1,0,0,Donal,Noye
+193,Donella Hornwood,Stark,299,2,35,16,0,1,0,1,0,0,0,Donella,Hornwood
+194,Donnel Drumm,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Donnel,Drumm
+195,Donnel Haigh,None,-1,-1,-1,49,1,1,0,0,1,0,0,Donnel,Haigh
+196,Donnel Hill,Night's Watch,-1,-1,-1,0,1,0,0,0,1,0,1,Donnel,Hill
+197,Donnel Locke,Stark,299,3,51,25,1,1,0,1,1,0,0,Donnel,Locke
+198,Donnel Waynwood,Tully,-1,-1,-1,34,1,1,1,0,0,0,0,Donnel,Waynwood
+199,Donnis,Stark,-1,-1,-1,7,1,0,1,0,0,0,0,Donnis,Unknown
+200,Dontos Hollard,None,300,3,61,57,1,1,1,1,1,0,0,Dontos,Hollard
+201,Donyse,None,-1,-1,-1,72,0,0,0,0,1,0,0,Donyse,Unknown
+202,Doran Martell,Martell,-1,-1,-1,2,1,1,0,0,0,1,1,Doran,Martell
+203,Doreah,Targaryen,299,2,12,11,0,0,1,1,0,0,0,Doreah,Unknown
+204,Dornish Dilly,Night's Watch,299,3,55,55,1,0,0,0,1,0,0,Dornish,Dilly
+205,Draqaz,None,-1,-1,-1,2,1,1,0,0,0,0,1,Draqaz,Unknown
+206,Drennan,Greyjoy,299,2,50,50,1,0,0,1,0,0,0,Drennan,Unknown
+207,Drogo,Targaryen,298,1,64,3,1,1,1,0,0,0,0,Drogo,Unknown
+208,Dudley,Stark,299,3,34,34,1,0,0,0,1,0,0,Dudley,Unknown
+209,Dunsen,None,-1,-1,-1,26,1,0,0,1,0,0,0,Dunsen,Unknown
+210,Dunstan Drumm,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Dunstan,Drumm
+211,Duram Bar Emmon,Baratheon,-1,-1,-1,0,1,1,0,1,0,0,0,Duram,Bar
+212,Dykk Harlaw,Greyjoy,299,2,66,66,1,0,0,1,0,0,0,Dykk,Harlaw
+213,Dywen,Night's Watch,-1,-1,-1,48,1,0,1,1,1,0,1,Dywen,Unknown
+214,Easy,Night's Watch,300,3,55,55,1,0,0,0,1,0,0,Easy,Unknown
+215,Ebben,Night's Watch,299,2,68,43,1,0,0,1,0,0,0,Ebben,Unknown
+216,Eddard Karstark,Stark,298,1,63,53,1,1,1,0,0,0,0,Eddard,Karstark
+217,Eddard Stark,Stark,299,1,65,1,1,1,1,0,0,0,0,Eddard,Stark
+218,Eddison Tollett,Night's Watch,-1,-1,-1,13,1,0,0,1,1,1,1,Eddison,Tollett
+219,Edmure Tully,Tully,-1,-1,-1,28,1,1,1,1,1,1,0,Edmure,Tully
+220,Edric Dayne,None,-1,-1,-1,34,1,1,0,0,1,0,0,Edric,Dayne
+221,Edric Storm,Baratheon,-1,-1,-1,10,1,0,0,0,1,0,0,Edric,Storm
+222,Edwyn Frey,None,-1,-1,-1,38,1,1,0,0,1,1,0,Edwyn,Frey
+223,Eggon,None,-1,-1,-1,30,1,0,0,1,0,0,0,Eggon,Unknown
+224,Elder Brother,None,-1,-1,-1,31,1,0,0,0,0,1,0,Elder,Brother
+225,Eldred Codd,Greyjoy,-1,-1,-1,18,1,1,0,0,0,1,0,Eldred,Codd
+226,Eleyna Westerling,Stark,-1,-1,-1,45,0,1,0,0,1,1,0,Eleyna,Westerling
+227,Elinor Tyrell,Tyrell,-1,-1,-1,6,0,1,0,0,1,1,0,Elinor,Tyrell
+228,Ellaria Sand,Martell,-1,-1,-1,38,0,1,0,0,1,0,1,Ellaria,Sand
+229,Elmar Frey,None,-1,-1,-1,59,1,1,1,1,1,0,0,Elmar,Frey
+230,Elyas Willum,Baratheon,-1,-1,-1,22,1,1,0,1,0,0,0,Elyas,Willum
+231,Emmon Cuy,Baratheon,299,2,42,33,1,1,0,1,0,0,0,Emmon,Cuy
+232,Emmon Frey,Lannister,-1,-1,-1,29,1,1,1,0,0,1,0,Emmon,Frey
+233,Emmond,Greyjoy,-1,-1,-1,1,1,0,0,0,0,1,0,Emmond,Unknown
+234,Emrick,Night's Watch,-1,-1,-1,75,1,0,0,0,1,0,1,Emrick,Unknown
+235,Endehar,Greyjoy,-1,-1,-1,56,1,0,0,1,0,0,0,Endehar,Unknown
+236,Elwood,Tully,299,3,20,20,1,0,0,0,1,0,0,Elwood,Unknown
+237,Endrew Tarth,Night's Watch,299,3,69,60,1,0,1,0,1,0,0,Endrew,Tarth
+238,Enger,Tully,-1,-1,-1,39,1,0,0,1,0,0,0,Enger,Unknown
+239,Eon Hunter,Arryn,300,3,80,38,1,1,1,0,1,0,0,Eon,Hunter
+240,Erik Ironmaker,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Erik,Ironmaker
+241,Ermesande Hayford,None,-1,-1,-1,2,0,1,0,1,1,1,0,Ermesande,Hayford
+242,Eroeh,Targaryen,298,1,68,61,1,0,1,0,0,0,0,Eroeh,Unknown
+243,Erreck,None,-1,-1,-1,12,1,0,0,0,1,0,0,Erreck,Unknown
+244,Erryk (Guard),Tyrell,-1,-1,-1,6,1,0,0,0,1,1,0,Erryk,Unknown
+245,Esgred,Greyjoy,-1,-1,-1,24,1,0,0,1,0,0,0,Esgred,Unknown
+246,Ezzara,Targaryen,-1,-1,-1,30,0,0,0,0,0,0,1,Ezzara,Unknown
+247,Falia Flowers,Greyjoy,-1,-1,-1,29,0,0,0,0,0,1,0,Falia,Flowers
+248,Falyse Stokeworth,Lannister,300,5,36,2,0,1,0,1,0,1,0,Falyse,Stokeworth
+249,Farlen,Stark,299,2,56,46,1,0,0,1,0,0,0,Farlen,Unknown
+250,Fat Walda Frey,None,-1,-1,-1,37,0,1,0,0,1,0,1,Fat,Walda
+251,Flement Brax,Lannister,-1,-1,-1,56,1,1,1,0,1,1,0,Flement,Brax
+252,Fletcher Will,None,299,3,34,34,1,0,0,0,1,0,0,Fletcher,Will
+253,Fogo,None,298,1,61,46,1,1,1,0,0,0,0,Fogo,Unknown
+254,Forley Prester,Lannister,-1,-1,-1,33,1,1,0,0,0,1,0,Forley,Prester
+255,Fornio,Night's Watch,-1,-1,-1,33,1,0,0,0,1,0,0,Fornio,Unknown
+256,Frenken,Lannister,-1,-1,-1,15,1,0,0,1,1,0,0,Frenken,Unknown
+257,Frenya,Wildling,300,5,69,37,0,0,0,0,0,0,1,Frenya,Unknown
+258,Frynne,Martell,-1,-1,-1,40,0,0,0,0,0,1,0,Frynne,Unknown
+259,Gage,Stark,-1,-1,-1,4,1,1,0,1,0,0,0,Gage,Unknown
+260,Galazza Galare,None,-1,-1,-1,23,0,1,0,0,0,0,1,Galazza,Galare
+261,Galbart Glover,Stark,-1,-1,-1,55,1,1,1,0,1,0,0,Galbart,Glover
+262,Gared,Night's Watch,297,1,1,0,1,0,1,0,0,0,0,Gared,Unknown
+263,Garin (Orphan),Martell,-1,-1,-1,21,1,0,0,0,0,1,0,Garin,Unknown
+264,Gariss,Stark,-1,-1,-1,50,1,0,0,1,0,0,0,Gariss,Unknown
+265,Garlan Tyrell,Tyrell,-1,-1,-1,62,1,1,0,1,1,1,0,Garlan,Tyrell
+266,Garrett Paege,Lannister,-1,-1,-1,30,1,1,0,0,0,1,0,Garrett,Paege
+267,Garse Goodbrook,None,299,3,-1,-1,1,1,0,0,1,0,0,Garse,Goodbrook
+268,Garth Greyfeather,Night's Watch,300,5,31,48,1,0,0,0,1,0,1,Garth,Greyfeather
+269,Garth of Greenaway,Night's Watch,300,5,4,33,1,0,0,0,1,0,1,Garth,of
+270,Garth of Oldtown,Night's Watch,299,3,33,33,1,0,0,0,1,0,0,Garth,of
+271,Gawen Westerling,Stark,-1,-1,-1,33,1,1,0,0,0,1,0,Gawen,Westerling
+272,Gelmarr,Greyjoy,299,2,56,50,1,0,0,1,0,0,0,Gelmarr,Unknown
+273,Gendry,None,-1,-1,-1,27,1,0,1,1,1,1,0,Gendry,Unknown
+274,Genna Lannister,Lannister,-1,-1,-1,33,0,1,0,0,0,1,0,Genna,Lannister
+275,Gerald Gower,Baratheon,-1,-1,-1,54,1,1,0,0,1,0,0,Gerald,Gower
+276,Gerold Dayne,Martell,-1,-1,-1,13,1,1,0,0,0,1,0,Gerold,Dayne
+277,Gerren,None,299,2,19,14,1,0,0,1,0,0,0,Gerren,Unknown
+278,Gerris Drinkwater,Martell,-1,-1,-1,6,1,1,0,0,0,0,1,Gerris,Drinkwater
+279,Gevin Harlaw,Greyjoy,299,2,66,37,1,1,0,1,0,0,0,Gevin,Harlaw
+280,Ghael,None,-1,-1,-1,71,1,0,0,0,1,0,1,Ghael,Unknown
+281,Ghost of High Heart,None,-1,-1,-1,22,0,0,0,0,1,0,0,Ghost,of
+282,Gillam,None,-1,-1,-1,31,1,0,0,0,0,1,0,Gillam,Unknown
+283,Gilly,Wildling,-1,-1,-1,23,0,0,0,1,1,1,1,Gilly,Unknown
+284,Gilwood Hunter,Arryn,-1,-1,-1,80,1,1,0,0,1,0,0,Gilwood,Hunter
+285,Gladden Wylde,Stark,298,1,55,43,1,1,1,0,0,0,0,Gladden,Wylde
+286,Glendon Hewett,Night's Watch,-1,-1,-1,69,1,0,0,0,1,0,0,Glendon,Hewett
+287,Goady,Night's Watch,-1,-1,-1,0,1,0,0,0,1,0,0,Goady,Unknown
+288,Godric Borrell,None,-1,-1,-1,9,1,1,0,0,0,0,1,Godric,Borrell
+289,Godry Farring,Baratheon,-1,-1,-1,3,1,1,0,0,0,0,1,Godry,Farring
+290,Godwyn,Lannister,-1,-1,-1,32,1,0,1,0,0,0,0,Godwyn,Unknown
+291,Goghor,None,-1,-1,-1,52,1,0,0,0,0,0,1,Goghor,Unknown
+292,Gormond Goodbrother,Greyjoy,-1,-1,-1,1,1,1,0,0,0,1,0,Gormond,Goodbrother
+293,Gorold Goodbrother,Greyjoy,-1,-1,-1,1,1,1,0,0,0,1,0,Gorold,Goodbrother
+294,Gran Goodbrother,Greyjoy,-1,-1,-1,1,1,1,0,0,0,1,0,Gran,Goodbrother
+295,Grazdan,None,299,3,27,27,1,1,0,0,1,0,0,Grazdan,Unknown
+296,Grazdan mo Eraz,None,-1,-1,-1,42,1,1,0,0,1,0,0,Grazdan,mo
+297,Grazdan mo Ullhor,None,299,3,27,27,1,1,0,0,1,0,0,Grazdan,mo
+298,Grazdan zo Galare,None,-1,-1,-1,2,1,1,0,0,0,0,1,Grazdan,zo
+299,Grazdar zo Galare,None,-1,-1,-1,2,1,1,0,0,0,0,1,Grazdar,zo
+300,Gregor Clegane,Lannister,300,4,72,29,1,1,1,1,1,0,0,Gregor,Clegane
+301,Grenn,Night's Watch,-1,-1,-1,19,1,0,1,1,1,1,1,Grenn,Unknown
+302,Grey Worm,Targaryen,-1,-1,-1,42,1,0,0,0,1,0,1,Grey,Worm
+303,Greydon Goodbrother,Greyjoy,-1,-1,-1,1,1,1,0,0,0,1,0,Greydon,Goodbrother
+304,Grigg,Wildling,-1,-1,-1,30,1,0,0,0,1,0,0,Grigg,Unknown
+305,Grisel,None,-1,-1,-1,68,0,0,0,0,1,0,0,Grisel,Unknown
+306,Groleo,Targaryen,300,5,59,-1,1,0,0,0,1,0,1,Groleo,Unknown
+307,Grubbs,Night's Watch,300,5,4,0,1,0,0,0,1,0,1,Grubbs,Unknown
+308,Grunt,None,-1,-1,-1,12,1,0,0,0,0,0,1,Grunt,Unknown
+309,Gueren,Night's Watch,-1,-1,-1,38,1,0,1,0,0,0,0,Gueren,Unknown
+310,Guncer Sunglass,Baratheon,299,3,10,0,1,1,0,1,1,0,0,Guncer,Sunglass
+311,Guyard Morrigen,Baratheon,299,2,62,22,1,1,0,1,0,0,0,Guyard,Morrigen
+312,Gwin Goodbrother,Greyjoy,-1,-1,-1,1,0,1,0,0,0,1,0,Gwin,Goodbrother
+313,Gylbert Farwynd,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Gylbert,Farwynd
+314,Gyles Farwynd,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Gyles,Farwynd
+315,Gyles Grafton,Arryn,-1,-1,-1,41,1,1,0,0,0,1,0,Gyles,Grafton
+316,Gyles Rosby,Lannister,300,4,39,57,1,1,1,1,1,1,0,Gyles,Rosby
+317,Gynir,Greyjoy,299,2,56,50,1,0,0,1,0,0,0,Gynir,Unknown
+318,Gysella Goodbrother,Greyjoy,-1,-1,-1,1,0,1,0,0,0,1,0,Gysella,Goodbrother
+319,Haggo,None,298,1,64,11,1,0,1,0,0,0,0,Haggo,Unknown
+320,Hairy Hal,Night's Watch,300,5,31,55,1,0,0,0,1,1,1,Hairy,Hal
+321,Hake,Night's Watch,299,3,46,52,1,0,1,1,1,0,0,Hake,Unknown
+322,Halder,Night's Watch,-1,-1,-1,19,1,0,1,0,1,0,0,Halder,Unknown
+323,Haldon,Targaryen,-1,-1,-1,8,1,0,0,0,0,0,1,Haldon,Unknown
+324,Hali,Wildling,298,1,37,37,0,0,1,0,0,0,0,Hali,Unknown
+325,Hallis Mollen,Stark,-1,-1,-1,14,1,1,1,1,0,0,0,Hallis,Mollen
+326,Hallyne,Lannister,-1,-1,-1,17,1,0,0,1,0,1,0,Hallyne,Unknown
+327,Halys Hornwood,Stark,298,1,62,53,1,1,1,0,0,0,0,Halys,Hornwood
+328,Hamish the Harper,None,300,5,43,32,1,0,0,0,1,1,0,Hamish,the
+329,Hareth (Mole's Town),Night's Watch,-1,-1,-1,64,1,0,0,0,1,0,1,Hareth,Unknown
+330,Harghaz,None,300,5,70,52,1,0,0,0,0,0,1,Harghaz,Unknown
+331,Harma,Wildling,300,3,75,0,0,1,0,0,1,0,0,Harma,Unknown
+332,Harmund Sharp,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Harmund,Sharp
+333,Harmune,Night's Watch,-1,-1,-1,78,1,0,0,0,0,0,1,Harmune,Unknown
+334,Harra,None,299,2,64,26,0,0,0,1,0,0,0,Harra,Unknown
+335,Harrag Sharp,Greyjoy,299,5,19,66,1,1,0,1,0,1,0,Harrag,Sharp
+336,Harras Harlaw,Greyjoy,-1,-1,-1,11,1,1,0,0,0,1,0,Harras,Harlaw
+337,Harwood Fell,Baratheon,300,5,42,17,1,1,0,0,0,0,1,Harwood,Fell
+338,Hazzea,None,300,5,11,11,0,0,0,0,0,0,1,Hazzea,Unknown
+339,Harrion Karstark,Stark,-1,-1,-1,53,1,1,1,1,0,0,0,Harrion,Karstark
+340,Harry Strickland,None,-1,-1,-1,24,1,0,0,0,0,0,1,Harry,Strickland
+341,Harwin,Stark,-1,-1,-1,1,1,0,1,0,1,1,0,Harwin,Unknown
+342,Harwood Stout,Stark,-1,-1,-1,32,1,1,0,0,0,0,1,Harwood,Stout
+343,Harys Haigh,None,-1,-1,-1,64,1,1,0,1,1,0,0,Harys,Haigh
+344,Harys Swyft,Lannister,-1,-1,-1,69,1,1,1,1,1,1,1,Harys,Swyft
+345,Helman Tallhart,Stark,299,3,37,55,1,1,1,0,1,0,0,Helman,Tallhart
+346,Henly (Maester),None,-1,-1,-1,37,1,0,0,0,0,0,1,Henly,Unknown
+347,Heward,Stark,298,1,35,35,1,0,1,0,0,0,0,Heward,Unknown
+348,High Sparrow,None,-1,-1,-1,4,1,0,0,0,0,1,1,High,Sparrow
+349,Hobb,Night's Watch,-1,-1,-1,52,1,0,1,0,1,0,1,Hobb,Unknown
+350,Hobber Redwyne,Tyrell,-1,-1,-1,27,1,1,1,1,1,1,0,Hobber,Redwyne
+351,Hod,None,-1,-1,-1,5,1,0,0,1,0,0,0,Hod,Unknown
+352,Hodor,Stark,-1,-1,-1,24,1,0,1,1,1,0,1,Hodor,Unknown
+353,Holger,None,-1,-1,-1,49,1,0,0,1,0,0,0,Holger,Unknown
+354,Holly,Wildling,300,5,69,37,0,0,0,0,0,0,1,Holly,Unknown
+355,Hop-Robin,Night's Watch,-1,-1,-1,75,1,0,0,0,1,0,1,Hop-Robin,Unknown
+356,Horas Redwyne,Tyrell,-1,-1,-1,27,1,1,1,1,0,1,0,Horas,Redwyne
+357,Horton Redfort,Arryn,-1,-1,-1,23,1,1,0,0,0,1,0,Horton,Redfort
+358,Hosteen Frey,None,-1,-1,-1,59,1,1,1,1,1,0,1,Hosteen,Frey
+359,Hoster Tully,Tully,299,3,35,71,1,1,1,1,1,0,0,Hoster,Tully
+360,Hot Pie,None,-1,-1,-1,1,1,0,0,1,1,0,0,Hot,Pie
+361,Hother Umber,Stark,-1,-1,-1,16,1,1,0,1,0,0,1,Hother,Umber
+362,Howd Wanderer,Wildling,-1,-1,-1,58,1,1,0,0,0,0,1,Howd,Wanderer
+363,Hubard Rambton,Baratheon,299,5,10,10,1,1,0,1,0,0,0,Hubard,Rambton
+364,Hugh,Arryn,298,1,29,25,1,0,1,0,0,0,0,Hugh,Unknown
+365,Hugo Vance,Tully,-1,-1,-1,30,1,1,0,0,0,1,0,Hugo,Vance
+366,Hullen,Stark,298,1,50,1,1,0,1,0,0,0,0,Hullen,Unknown
+367,Humfrey Swyft,Lannister,-1,-1,-1,16,1,1,0,0,0,1,0,Humfrey,Swyft
+368,Husband,None,-1,-1,-1,11,1,0,0,0,1,0,0,Husband,Unknown
+369,Hyle Hunt,None,300,4,42,14,1,1,0,0,0,1,0,Hyle,Hunt
+370,Iggo,None,299,3,3,3,1,0,0,0,1,0,0,Iggo,Unknown
+371,Illyrio Mopatis,Targaryen,-1,-1,-1,3,1,1,1,0,0,0,1,Illyrio,Mopatis
+372,Ilyn Payne,Lannister,-1,-1,-1,15,1,1,1,1,1,1,0,Ilyn,Payne
+373,Imry Florent,Baratheon,299,3,4,58,1,1,0,1,1,0,0,Imry,Florent
+374,Iron Emmett,Night's Watch,-1,-1,-1,79,1,0,0,0,1,0,1,Iron,Emmett
+375,Irri,Targaryen,-1,-1,-1,11,0,0,1,1,1,0,1,Irri,Unknown
+376,Ithoke,None,-1,-1,-1,11,1,0,0,0,0,0,1,Ithoke,Unknown
+377,Jacelyn Bywater,Lannister,299,2,19,8,0,1,0,1,0,0,0,Jacelyn,Bywater
+378,Jack Bulwer,Night's Watch,300,5,31,64,1,0,0,0,1,1,1,Jack,Bulwer
+379,Jack-Be-Lucky,None,-1,-1,-1,17,1,0,0,0,1,1,0,Jack-Be-Lucky,Unknown
+380,Jacks,Stark,-1,-1,-1,22,1,0,1,1,0,0,0,Jacks,Unknown
+381,Jaggot,None,-1,-1,-1,42,1,0,1,0,0,0,0,Jaggot,Unknown
+382,Jaime Lannister,Lannister,-1,-1,-1,5,1,1,1,1,1,1,1,Jaime,Lannister
+383,Jalabhar Xho,None,-1,-1,-1,29,1,1,1,1,1,1,0,Jalabhar,Xho
+384,Janna Tyrell,Tyrell,-1,-1,-1,6,0,1,0,0,1,1,0,Janna,Tyrell
+385,Janos Slynt,None,300,5,7,27,1,1,1,1,1,0,1,Janos,Slynt
+386,Jaqen H'ghar,None,-1,-1,-1,5,1,0,0,1,0,1,0,Jaqen,H'ghar
+387,Jared Frey,None,300,5,37,59,1,1,1,1,0,0,1,Jared,Frey
+388,Jaremy Rykker,Night's Watch,298,5,60,21,1,1,1,0,0,0,0,Jaremy,Rykker
+389,Jarl,Wildling,299,3,26,7,1,0,0,0,1,0,0,Jarl,Unknown
+390,Jarman Buckwell,Night's Watch,300,5,21,13,1,0,0,1,0,0,1,Jarman,Buckwell
+391,Jason Mallister,Stark,-1,-1,-1,28,1,1,1,0,1,0,0,Jason,Mallister
+392,Jate,Lannister,-1,4,44,44,1,0,0,0,0,1,0,Jate,Unknown
+393,Jate Blackberry,Baratheon,-1,3,10,10,1,0,0,0,1,0,0,Jate,Blackberry
+394,Jeor Mormont,Night's Watch,299,3,33,48,1,1,1,1,1,0,0,Jeor,Mormont
+395,Jeren,Night's Watch,-1,-1,-1,19,1,0,1,0,0,0,0,Jeren,Unknown
+396,Jeyne Poole,Stark,-1,-1,-1,7,0,1,1,0,1,0,1,Jeyne,Poole
+397,Jeyne Westerling,Stark,-1,-1,-1,14,0,1,0,0,1,1,0,Jeyne,Westerling
+398,Jhaqo,None,-1,-1,-1,68,1,1,1,0,0,0,1,Jhaqo,Unknown
+399,Jhezane,None,-1,-1,-1,2,0,1,0,0,0,0,1,Jhezane,Unknown
+400,Jhiqui,Targaryen,-1,-1,-1,11,0,0,1,1,1,0,1,Jhiqui,Unknown
+401,Jhogo,Targaryen,-1,-1,-1,23,1,0,1,1,1,0,1,Jhogo,Unknown
+402,Jocelyn Swyft,Lannister,-1,-1,-1,3,0,1,0,0,0,1,1,Jocelyn,Swyft
+403,Jodge,Lannister,-1,-1,-1,30,1,0,0,1,0,0,0,Jodge,Unknown
+404,Jojen Reed,Stark,-1,-1,-1,21,1,1,0,1,1,0,1,Jojen,Reed
+405,Jommy,Baratheon,-1,-1,-1,0,1,0,0,1,0,0,0,Jommy,Unknown
+406,Jon Bettley,Lannister,-1,-1,-1,16,1,1,0,0,0,1,0,Jon,Bettley
+407,Jon Connington,Targaryen,-1,-1,-1,5,1,1,0,0,0,0,1,Jon,Connington
+408,Jon Fossoway,Baratheon,-1,-1,-1,22,1,1,0,1,0,0,0,Jon,Fossoway
+409,Jon Snow,Night's Watch,-1,-1,-1,1,1,1,1,1,1,1,1,Jon,Snow
+410,Jon Umber (Greatjon),Stark,-1,-1,-1,51,1,1,1,1,1,0,0,Jon,Umber
+411,Joffrey Baratheon,Lannister,300,3,60,5,1,1,1,1,1,0,0,Joffrey,Baratheon
+412,Jon Umber (Smalljon),Stark,299,3,51,63,1,1,1,0,1,0,0,Jon,Umber
+413,Jonelle Cerwyn,Stark,-1,-1,-1,53,0,1,1,0,0,0,0,Jonelle,Cerwyn
+414,Jonos Bracken,Tully,-1,-1,-1,28,1,1,1,0,1,0,1,Jonos,Bracken
+415,Jorah Mormont,Targaryen,-1,-1,-1,23,1,1,1,1,1,0,1,Jorah,Mormont
+416,Jory Cassel,Stark,298,1,35,1,1,1,1,0,0,0,0,Jory,Cassel
+417,Joseran,Greyjoy,-1,-1,-1,11,1,0,0,0,0,1,0,Joseran,Unknown
+418,Joseth,Stark,-1,-1,-1,37,1,0,1,1,0,0,0,Joseth,Unknown
+419,Josmyn Peckledon,Lannister,-1,-1,-1,65,1,0,0,1,1,1,1,Josmyn,Peckledon
+420,Joss,None,-1,-1,-1,43,1,0,1,0,0,0,0,Joss,Unknown
+421,Joss Stilwood,Lannister,-1,-1,-1,-1,1,0,1,0,0,0,0,Joss,Stilwood
+422,Josua Willum,Baratheon,-1,-1,-1,22,1,1,0,1,0,0,0,Josua,Willum
+423,Jothos Slynt,Lannister,-1,-1,-1,66,1,1,0,0,1,0,0,Jothos,Slynt
+424,Joyeuse Erenford,None,-1,-1,-1,28,0,1,1,0,1,0,0,Joyeuse,Erenford
+425,Justin Massey,Baratheon,-1,-1,-1,7,1,1,0,0,0,0,1,Justin,Massey
+426,Jyck,Lannister,298,1,31,21,1,0,1,0,0,0,0,Jyck,Unknown
+427,Jynessa Blackmont,Martell,-1,-1,-1,38,0,1,0,0,1,0,0,Jynessa,Blackmont
+428,Karyl Vance,Tully,-1,-1,-1,43,1,1,1,0,1,1,0,Karyl,Vance
+429,Kedge Whiteye,Night's Watch,-1,-1,-1,43,1,0,0,1,1,1,0,Kedge,Whiteye
+430,Kella,None,-1,-1,-1,68,0,0,0,0,1,0,0,Kella,Unknown
+431,Kennos of Kayce,Lannister,-1,-1,-1,6,1,1,0,0,1,1,1,Kennos,of
+432,Ketter,Night's Watch,-1,-1,-1,52,1,0,1,0,0,0,0,Ketter,Unknown
+433,Kenned,Greyjoy,299,2,66,66,1,0,0,1,0,0,0,Kenned,Unknown
+434,Kerwin,Tyrell,300,5,56,29,1,0,0,0,0,1,1,Kerwin,Unknown
+435,Kevan Lannister,Lannister,300,5,-1,56,1,1,1,1,1,1,1,Kevan,Lannister
+436,Kezmya,None,-1,-1,-1,2,0,1,0,0,0,0,1,Kezmya,Unknown
+437,Khorane Sathmantes,None,-1,-1,-1,10,1,0,0,0,1,0,0,Khorane,Sathmantes
+438,Khrazz,None,300,5,67,11,1,0,0,0,0,0,1,Khrazz,Unknown
+439,Kindly man,None,-1,-1,-1,6,1,0,0,0,0,1,1,Kindly,man
+440,Kojja Mo,None,-1,-1,-1,35,0,0,0,0,0,1,0,Kojja,Mo
+441,Koss,Night's Watch,299,2,14,5,1,0,0,1,0,0,0,Koss,Unknown
+442,Kraznys mo Nakloz,None,299,3,27,23,1,1,0,0,1,0,0,Kraznys,mo
+443,Kromm,Greyjoy,299,2,66,56,1,0,0,1,0,0,0,Kromm,Unknown
+444,Kurleket,None,298,1,31,31,1,0,1,0,0,0,0,Kurleket,Unknown
+445,Kurz,Night's Watch,299,2,19,5,1,0,0,1,0,0,0,Kurz,Unknown
+446,Kyle (Banners),None,299,3,39,39,1,0,0,0,1,0,0,Kyle,Unknown
+447,Kyra,Stark,300,5,12,37,0,0,1,1,0,0,1,Kyra,Unknown
+448,Lady of the Leaves,None,-1,-1,-1,22,0,0,0,0,1,0,0,Lady,of
+449,Lambert Turnberry,Lannister,-1,-1,-1,7,1,1,0,0,0,1,0,Lambert,Turnberry
+450,Lamprey,Baratheon,-1,-1,-1,25,1,0,0,0,1,0,0,Lamprey,Unknown
+451,Lancel Lannister,Lannister,-1,-1,-1,47,1,1,1,1,1,1,1,Lancel,Lannister
+452,Lanna (Happy Port),None,-1,-1,-1,34,0,0,0,0,0,1,0,Lanna,Unknown
+453,Lark,Night's Watch,299,3,46,23,1,0,0,1,1,0,0,Lark,Unknown
+454,Larra Blackmont,Martell,-1,-1,-1,38,0,1,0,0,1,0,0,Larra,Blackmont
+455,Larraq,Targaryen,-1,-1,-1,59,1,0,0,0,0,0,1,Larraq,Unknown
+456,Leathers,Night's Watch,-1,-1,-1,35,1,0,0,0,0,0,1,Leathers,Unknown
+457,Left Hand Lew,Night's Watch,-1,-1,-1,48,1,0,0,0,1,0,1,Left,Hand
+458,Lem,None,-1,-1,-1,13,1,0,0,0,1,1,0,Lem,Unknown
+459,Lennocks,None,-1,-1,34,34,1,0,0,0,1,0,0,Lennocks,Unknown
+460,Lenwood Tawney,Greyjoy,-1,-1,-1,18,1,0,0,0,0,1,0,Lenwood,Tawney
+461,Leo Lefford,Lannister,299,2,45,62,1,1,1,1,0,0,0,Leo,Lefford
+462,Leo Tyrell,Tyrell,-1,-1,-1,0,1,1,0,0,0,1,0,Leo,Tyrell
+463,Leobald Tallhart,Stark,299,2,66,16,1,1,0,1,0,0,0,Leobald,Tallhart
+464,Leona Woolfield,Stark,-1,-1,-1,19,0,1,0,0,0,0,1,Leona,Woolfield
+465,Leonette Fossoway,Tyrell,-1,-1,-1,6,0,1,0,0,1,0,0,Leonette,Fossoway
+466,Lew,Stark,-1,-1,-1,7,1,0,1,0,0,0,0,Lew,Unknown
+467,Lewis Lanster,None,-1,-1,-1,25,1,0,0,0,0,0,1,Lewis,Lanster
+468,Lewys Lydden,Lannister,-1,-1,-1,62,1,1,1,1,0,0,0,Lewys,Lydden
+469,Lewys Piper,Lannister,-1,-1,-1,27,1,1,0,0,0,1,0,Lewys,Piper
+470,Lharys,Stark,298,1,34,31,1,1,1,0,0,0,0,Lharys,Unknown
+471,Little Walder Frey,None,300,5,51,59,1,1,1,1,0,0,1,Little,Walder
+472,Lollys Stokeworth,Lannister,-1,-1,-1,2,0,1,0,1,1,0,0,Lollys,Stokeworth
+473,Lommy,Night's Watch,299,2,19,1,1,0,0,1,0,0,0,Lommy,Unknown
+474,Loras Tyrell,Tyrell,-1,-1,-1,18,1,1,1,1,1,1,0,Loras,Tyrell
+475,Lorcas,None,-1,-1,-1,45,1,0,0,0,0,1,0,Lorcas,Unknown
+476,Lord of Bones,Wildling,300,5,10,68,1,1,0,1,1,0,1,Lord,of
+477,Lorent Caswell,Baratheon,-1,-1,-1,22,1,1,0,1,0,0,0,Lorent,Caswell
+478,Lorren,Greyjoy,299,2,66,37,1,0,0,1,0,0,0,Lorren,Unknown
+479,Lothar Frey,None,-1,-1,-1,35,1,1,0,0,1,0,0,Lothar,Frey
+480,Lothor Brune,None,-1,-1,-1,29,1,1,1,1,1,1,0,Lothor,Brune
+481,Lucan,None,299,2,64,38,1,0,0,1,0,0,0,Lucan,Unknown
+482,Lucas Blackwood,Tully,299,3,51,22,1,1,0,1,1,0,0,Lucas,Blackwood
+483,Lucas Codd,Greyjoy,-1,-1,-1,11,1,1,0,0,0,1,0,Lucas,Codd
+484,Lucias Vypren,None,-1,-1,-1,49,1,1,0,0,1,0,0,Lucias,Vypren
+485,Luco Prestayn,None,-1,-1,-1,22,1,0,0,0,0,1,0,Luco,Prestayn
+486,Luke of Longtown,Night's Watch,-1,-1,-1,35,1,0,0,0,0,0,1,Luke,of
+487,Luton,None,300,5,51,37,1,0,0,0,0,0,1,Luton,Unknown
+488,Luwin,Stark,299,2,69,14,1,0,1,1,0,0,0,Luwin,Unknown
+489,Lyle Crakehall,Lannister,-1,-1,-1,12,1,1,0,0,0,1,0,Lyle,Crakehall
+490,Lyman Darry,Tully,299,3,7,71,1,1,1,1,0,0,0,Lyman,Darry
+491,Lymond Goodbrook,Tully,-1,-1,-1,45,1,1,0,0,1,0,0,Lymond,Goodbrook
+492,Lymond Lychester,Tully,-1,-1,-1,22,1,1,0,0,1,0,0,Lymond,Lychester
+493,Lyn Corbray,Arryn,-1,-1,-1,38,1,1,1,0,0,1,0,Lyn,Corbray
+494,Lyonel,None,-1,-1,-1,38,1,0,0,1,0,0,0,Lyonel,Unknown
+495,Lysa Tully,Arryn,300,3,-1,34,0,1,1,0,1,0,0,Lysa,Tully
+496,Lysono Maar,None,-1,-1,-1,24,1,0,0,0,0,0,1,Lysono,Maar
+497,Mace Tyrell,Tyrell,-1,-1,-1,62,1,1,0,1,1,1,1,Mace,Tyrell
+498,Mad Huntsman,None,-1,-1,-1,29,1,0,0,0,1,0,0,Mad,Huntsman
+499,Maege Mormont,Stark,-1,-1,-1,53,0,1,1,0,1,0,0,Maege,Mormont
+500,Maerie (Goodwife),None,299,3,34,34,0,0,0,0,1,0,0,Maerie,Unknown
+501,Maerie (Whore),None,299,3,34,34,0,0,0,0,1,0,0,Maerie,Unknown
+502,Mag Mar Tun Doh Weg,Wildling,300,3,64,15,1,1,0,0,1,0,0,Mag,Mar
+503,Mago,None,-1,-1,-1,61,1,0,1,0,0,0,0,Mago,Unknown
+504,Mallador Locke,Night's Watch,299,5,18,13,1,0,0,1,1,0,0,Mallador,Locke
+505,Malliard,Lannister,-1,-1,-1,20,1,0,0,1,0,0,0,Malliard,Unknown
+506,Mallor,Lannister,-1,-1,-1,63,1,0,1,0,0,0,0,Mallor,Unknown
+507,Mance Rayder,Wildling,-1,-1,-1,15,1,1,0,0,1,0,1,Mance,Rayder
+508,Mandon Moore,Baratheon,299,2,61,51,1,1,1,1,0,0,0,Mandon,Moore
+509,Maric Seaworth,Baratheon,299,2,58,10,1,1,0,1,0,0,0,Maric,Seaworth
+510,Marei,None,-1,-1,-1,29,0,0,0,1,0,0,0,Marei,Unknown
+511,Margaery Tyrell,Tyrell,-1,-1,-1,22,0,1,0,1,1,1,0,Margaery,Tyrell
+512,Marillion,Arryn,300,4,23,28,1,0,1,0,1,1,0,Marillion,Unknown
+513,Maris,Wildling,-1,-1,-1,58,0,0,0,0,0,0,1,Maris,Unknown
+514,Marissa Frey,None,-1,-1,-1,49,0,1,0,0,1,1,0,Marissa,Frey
+515,Mariya Darry,None,-1,-1,-1,30,0,1,0,0,0,1,0,Mariya,Darry
+516,Mark Mullendore,Tully,-1,-1,-1,22,1,1,0,1,0,0,0,Mark,Mullendore
+517,Marlon Manderly,Stark,-1,-1,-1,19,1,1,0,0,0,0,1,Marlon,Manderly
+518,Maron Volmark,Greyjoy,-1,-1,-1,18,1,1,0,0,0,1,0,Maron,Volmark
+519,Marq Piper,Tully,-1,-1,-1,56,1,1,1,0,1,0,0,Marq,Piper
+520,Martyn Rivers,None,-1,-1,-1,29,1,1,1,1,1,0,0,Martyn,Rivers
+521,Marwyn,None,-1,-1,-1,0,1,0,0,0,0,1,0,Marwyn,Unknown
+522,Marwyn Belmore,Arryn,-1,-1,-1,10,1,1,0,0,0,1,0,Marwyn,Belmore
+523,Masha Heddle,Tully,298,1,56,28,0,0,1,0,0,0,0,Masha,Heddle
+524,Maslyn,Night's Watch,299,3,18,0,1,0,0,0,1,0,0,Maslyn,Unknown
+525,Mathis Rowan,Lannister,-1,-1,-1,22,1,1,0,1,1,1,0,Mathis,Rowan
+526,Mathos Mallarawan,None,-1,-1,-1,40,1,1,0,1,0,0,0,Mathos,Mallarawan
+527,Matrice,Baratheon,-1,-1,-1,0,0,0,0,1,0,0,0,Matrice,Unknown
+528,Matthos Seaworth,Baratheon,299,2,58,10,1,1,0,1,0,0,0,Matthos,Seaworth
+529,Matthar,Night's Watch,-1,-1,-1,41,1,0,1,0,0,0,0,Matthar,Unknown
+530,Mawney,Night's Watch,300,5,4,18,1,0,0,0,1,0,1,Mawney,Unknown
+531,Mebble,None,-1,-1,-1,47,1,0,0,1,0,0,0,Mebble,Unknown
+532,Medger Cerwyn,Stark,299,2,30,53,1,1,1,1,0,0,0,Medger,Cerwyn
+533,Meera Reed,Stark,-1,-1,-1,21,0,1,0,1,1,0,1,Meera,Reed
+534,Megga Tyrell,Tyrell,-1,-1,-1,6,0,1,0,0,1,1,0,Megga,Tyrell
+535,Meha,Wildling,-1,-1,-1,0,0,0,0,0,0,0,1,Meha,Unknown
+536,Mela,Arryn,-1,-1,-1,23,0,0,0,0,0,1,0,Mela,Unknown
+537,Meldred Merlyn,Greyjoy,-1,-1,-1,1,1,1,0,0,0,1,0,Meldred,Merlyn
+538,Meliana,Stark,-1,-1,-1,69,0,0,0,0,1,0,0,Meliana,Unknown
+539,Melisandre,Baratheon,-1,-1,-1,0,0,0,0,1,1,0,1,Melisandre,Unknown
+540,Mellei,Martell,-1,-1,-1,40,0,0,0,0,0,1,0,Mellei,Unknown
+541,Melly,None,-1,-1,-1,34,0,0,0,0,1,0,0,Melly,Unknown
+542,Meredyth Crane,Tyrell,-1,-1,-1,61,0,1,0,0,1,1,0,Meredyth,Crane
+543,Meribald,None,-1,-1,-1,25,1,0,0,0,0,1,0,Meribald,Unknown
+544,Merlon Crakehall,Lannister,-1,-1,-1,38,1,1,0,0,1,0,0,Merlon,Crakehall
+545,Mero,None,299,3,57,42,1,0,0,0,1,0,0,Mero,Unknown
+546,Merrett Frey,None,300,3,-1,59,1,1,1,0,1,0,0,Merrett,Frey
+547,Meryn Trant,Lannister,-1,-1,-1,8,1,1,1,1,1,1,1,Meryn,Trant
+548,Mezzara,None,-1,-1,-1,2,0,1,0,0,0,0,1,Mezzara,Unknown
+549,Mikken,Stark,299,2,46,8,1,0,1,1,0,0,0,Mikken,Unknown
+550,Miklaz,None,-1,-1,-1,2,1,1,0,0,0,0,1,Miklaz,Unknown
+551,Mirri Maz Duur,None,299,1,72,61,0,0,1,0,0,0,0,Mirri,Maz
+552,Missandei,Targaryen,-1,-1,-1,23,0,0,0,0,1,0,1,Missandei,Unknown
+553,Mohor,None,298,1,31,31,1,1,1,0,0,0,0,Mohor,Unknown
+554,Mollander,None,-1,-1,-1,0,1,0,0,0,0,1,0,Mollander,Unknown
+555,Monford Velaryon,Baratheon,299,3,25,0,1,1,0,1,0,0,0,Monford,Velaryon
+556,Monster,Wildling,-1,-1,-1,33,1,0,0,0,1,1,1,Monster,Unknown
+557,Moon Boy,Baratheon,-1,-1,-1,29,1,0,1,1,1,1,0,Moon,Boy
+558,Moqorro,Greyjoy,-1,-1,-1,33,1,0,0,0,0,0,1,Moqorro,Unknown
+559,Mord,Arryn,-1,-1,-1,38,1,0,1,0,0,1,0,Mord,Unknown
+560,Mordane,Stark,298,1,67,7,0,0,1,0,0,0,0,Mordane,Unknown
+561,Moreo Tumitis,None,-1,-1,-1,18,1,0,1,0,0,0,0,Moreo,Tumitis
+562,Morgarth,None,-1,-1,-1,41,1,0,0,0,0,1,0,Morgarth,Unknown
+563,Morna White Mask,Wildling,-1,-1,-1,48,0,1,0,0,0,0,1,Morna,White
+564,Moro,None,-1,-1,-1,3,1,1,1,0,0,0,0,Moro,Unknown
+565,Morra,Martell,-1,-1,-1,40,0,0,0,0,0,1,0,Morra,Unknown
+566,Morrec,Lannister,298,1,31,13,1,0,1,0,0,0,0,Morrec,Unknown
+567,Morros Slynt,Lannister,-1,-1,-1,2,1,1,0,1,1,0,0,Morros,Slynt
+568,Mors Manwoody,Martell,-1,-1,-1,38,1,1,0,0,1,0,0,Mors,Manwoody
+569,Mors Umber,Stark,-1,-1,-1,21,1,1,0,1,0,0,0,Mors,Umber
+570,Morton Waynwood,Arryn,-1,-1,-1,40,1,1,1,0,0,0,0,Morton,Waynwood
+571,Mudge (miller),None,299,3,34,34,1,0,0,0,1,0,0,Mudge,Unknown
+572,Mully,Night's Watch,-1,-1,-1,55,1,0,0,0,1,1,1,Mully,Unknown
+573,Munciter,Lannister,-1,-1,-1,20,1,0,0,1,0,0,0,Munciter,Unknown
+574,Murch,Night's Watch,-1,-1,-1,9,1,0,0,1,0,0,0,Murch,Unknown
+575,Murch (Winterfell),Stark,-1,-1,-1,50,1,0,0,1,0,0,0,Murch,Unknown
+576,Mossador,Targaryen,300,5,11,11,1,0,0,0,1,0,1,Mossador,Unknown
+577,Murenmure,Greyjoy,-1,-1,-1,1,1,0,0,0,0,1,0,Murenmure,Unknown
+578,Muttering Bill,Night's Watch,300,5,4,-1,1,0,0,0,1,0,1,Muttering,Bill
+579,Mya Stone,Arryn,-1,-1,-1,34,0,0,1,0,0,1,0,Mya,Stone
+580,Mycah,Stark,298,1,16,15,1,0,1,0,0,0,0,Mycah,Unknown
+581,Myles,Martell,-1,-1,-1,2,1,0,0,0,0,1,1,Myles,Unknown
+582,Myles Manwoody,Martell,-1,-1,-1,38,1,1,0,0,1,0,0,Myles,Manwoody
+583,Myranda Royce,Arryn,-1,-1,-1,41,0,1,0,0,0,1,0,Myranda,Royce
+584,Myrcella Baratheon,Lannister,-1,-1,-1,5,0,1,1,1,0,1,0,Myrcella,Baratheon
+585,Myria Jordayne,Martell,-1,-1,-1,38,0,0,0,0,1,0,1,Myria,Jordayne
+586,Myrtle,Wildling,300,5,69,37,0,0,0,0,0,0,1,Myrtle,Unknown
+587,Nage,None,-1,-1,-1,44,1,0,0,0,1,0,0,Nage,Unknown
+588,Myles,Tully,299,2,39,39,1,0,0,1,0,0,0,Myles,Unknown
+589,Nan,Stark,-1,-1,-1,1,0,0,1,1,0,0,0,Nan,Unknown
+590,Narbert,None,-1,-1,-1,31,1,0,0,0,0,1,0,Narbert,Unknown
+591,Nestor Royce,Arryn,-1,-1,-1,34,1,1,1,0,0,1,0,Nestor,Royce
+592,Nolla,None,299,3,34,34,0,0,0,0,1,0,0,Nolla,Unknown
+593,Norjen,Greyjoy,-1,-1,-1,1,1,0,0,0,0,1,0,Norjen,Unknown
+594,Nurse,None,300,5,57,57,1,0,0,0,0,0,1,Nurse,Unknown
+595,Notch,None,-1,-1,-1,43,1,0,0,0,1,0,0,Notch,Unknown
+596,Nute,Greyjoy,-1,-1,-1,18,1,0,0,0,0,1,0,Nute,Unknown
+597,Nymella Toland,Martell,-1,-1,-1,38,0,1,0,0,0,0,1,Nymella,Toland
+598,Nymeria Sand,Martell,-1,-1,-1,2,0,1,0,0,0,1,1,Nymeria,Sand
+599,Obara Sand,Martell,-1,-1,-1,2,0,1,0,0,0,1,1,Obara,Sand
+600,Oberyn Martell,Martell,300,3,70,38,1,1,0,0,1,0,0,Oberyn,Martell
+601,Ogo,None,298,1,61,46,1,1,1,0,0,0,0,Ogo,Unknown
+602,Old Henly,Night's Watch,299,3,55,55,1,0,0,0,1,0,0,Old,Henly
+603,Olenna Redwyne,Tyrell,-1,-1,-1,19,0,1,0,0,1,1,0,Olenna,Redwyne
+604,Ollo Lophand,Night's Watch,300,5,4,0,1,0,0,0,1,0,1,Ollo,Lophand
+605,Olyvar Frey,None,-1,-1,-1,59,1,1,1,0,0,0,0,Olyvar,Frey
+606,Ondrew Locke,Stark,-1,-1,-1,37,1,1,0,0,0,0,1,Ondrew,Locke
+607,Oppo,None,300,4,17,60,1,0,0,0,1,1,0,Oppo,Unknown
+608,Orell,Wildling,299,2,51,51,1,0,0,1,0,0,0,Orell,Unknown
+609,Orphan Oss,Night's Watch,300,5,4,-1,1,0,0,0,1,0,1,Orphan,Oss
+610,Orton Merryweather,Lannister,-1,-1,-1,11,1,1,0,0,1,1,0,Orton,Merryweather
+611,Osfryd Kettleblack,Lannister,-1,-1,-1,41,1,1,0,1,1,1,0,Osfryd,Kettleblack
+612,Osha,Stark,-1,-1,-1,37,0,0,1,1,0,0,0,Osha,Unknown
+613,Osmund Kettleblack,Lannister,-1,-1,-1,41,1,1,0,1,1,1,0,Osmund,Kettleblack
+614,Osney Kettleblack,Lannister,-1,-1,-1,41,1,1,0,1,1,1,0,Osney,Kettleblack
+615,Ossy,Arryn,-1,-1,-1,41,1,0,0,0,0,1,0,Ossy,Unknown
+616,Oswell Kettleblack,None,-1,-1,-1,68,1,1,0,0,1,0,0,Oswell,Kettleblack
+617,Othell Yarwyck,Night's Watch,-1,-1,-1,48,1,0,1,0,1,0,1,Othell,Yarwyck
+618,Ottyn Wythers,Night's Watch,299,3,48,13,1,0,0,1,1,0,0,Ottyn,Wythers
+619,Owen,Night's Watch,-1,-1,-1,55,1,0,0,0,1,0,1,Owen,Unknown
+620,Owen Norrey,Tully,299,3,51,51,1,1,0,0,1,0,0,Owen,Norrey
+621,Oznak zo Pahl,None,299,3,57,57,1,1,0,0,1,0,0,Oznak,zo
+622,Palla,Stark,-1,-1,-1,46,0,0,0,1,0,0,0,Palla,Unknown
+623,Parmen Crane,Baratheon,-1,-1,-1,22,1,1,0,1,0,0,0,Parmen,Crane
+624,Patchface,Baratheon,-1,-1,-1,0,1,0,0,1,1,0,1,Patchface,Unknown
+625,Pate (novice),None,300,4,0,0,1,0,0,0,0,1,0,Pate,Unknown
+626,Pate (Lancewood),None,299,3,34,34,1,0,0,0,1,0,0,Pate,Unknown
+627,Pate (Night's Watch),Night's Watch,-1,-1,-1,60,1,0,1,0,0,0,0,Pate,Unknown
+628,Pate (Old),None,-1,-1,34,13,1,0,0,0,1,0,0,Pate,Unknown
+629,Patrek of King's Mountain,Baratheon,300,5,69,44,1,1,0,0,0,0,1,Patrek,of
+630,Patrek Mallister,Tully,-1,-1,-1,28,1,1,1,0,1,0,0,Patrek,Mallister
+631,Paxter Redwyne,Tyrell,-1,-1,-1,65,1,1,0,1,1,1,0,Paxter,Redwyne
+632,Pello,None,-1,-1,-1,17,1,0,0,0,1,0,0,Pello,Unknown
+633,Penny,None,-1,-1,-1,60,0,0,0,0,1,0,1,Penny,Unknown
+634,Perros Blackmont,Martell,-1,-1,-1,38,1,1,0,0,1,0,0,Perros,Blackmont
+635,Perwyn Frey,None,-1,-1,-1,29,1,1,1,1,0,0,0,Perwyn,Frey
+636,Petyr Baelish,None,-1,-1,-1,18,1,0,1,1,1,1,0,Petyr,Baelish
+637,Petyr Frey,None,300,3,-1,49,1,1,0,0,1,0,0,Petyr,Frey
+638,Philip Foote,Lannister,-1,-1,-1,65,1,1,0,1,1,0,0,Philip,Foote
+639,Pia,None,-1,-1,-1,30,0,0,0,1,0,1,0,Pia,Unknown
+640,Podrick Payne,Lannister,-1,-1,-1,62,1,1,1,1,1,1,0,Podrick,Payne
+641,Polliver,None,300,3,27,26,1,0,0,1,1,0,0,Polliver,Unknown
+642,Pono,None,-1,-1,-1,68,1,1,1,0,0,0,0,Pono,Unknown
+643,Porridge,Baratheon,-1,-1,-1,25,1,0,0,0,1,0,0,Porridge,Unknown
+644,Porther,Stark,299,2,21,22,1,0,1,1,0,0,0,Porther,Unknown
+645,Poul Pemford,Tully,299,2,39,39,1,0,0,1,0,0,0,Poul,Pemford
+646,Poxy Tym,Stark,299,2,69,16,1,0,0,1,0,0,0,Poxy,Tym
+647,Praed,None,299,2,9,5,1,0,0,1,0,0,0,Praed,Unknown
+648,Prendahl na Ghezn,None,299,3,42,42,1,0,0,0,1,0,0,Prendahl,na
+649,Preston Greenfield,Baratheon,299,2,41,43,1,0,1,1,0,0,0,Preston,Greenfield
+650,Pyat Pree,None,-1,-1,-1,12,1,1,0,1,0,0,0,Pyat,Pree
+651,Pycelle,Lannister,300,5,-1,20,1,0,1,1,1,1,1,Pycelle,Unknown
+652,Pyg,None,300,4,20,20,1,0,0,0,1,1,0,Pyg,Unknown
+653,Pylos,Baratheon,-1,-1,-1,0,1,0,0,1,1,0,0,Pylos,Unknown
+654,Pypar,Night's Watch,-1,-1,-1,19,1,0,1,0,1,1,1,Pypar,Unknown
+655,Qarl Shepherd,Greyjoy,-1,-1,-1,26,1,0,0,0,0,0,1,Qarl,Shepherd
+656,Qarl the Maid,Greyjoy,-1,-1,-1,42,1,0,0,1,0,1,1,Qarl,the
+657,Qezza,None,-1,-1,-1,2,0,0,0,0,0,0,1,Qezza,Unknown
+658,Qhorin Halfhand,Night's Watch,299,2,68,43,1,0,0,1,0,0,0,Qhorin,Halfhand
+659,Qotho,None,298,1,61,11,1,0,1,0,0,0,0,Qotho,Unknown
+660,Quaithe,None,-1,-1,-1,12,0,1,0,1,1,0,1,Quaithe,Unknown
+661,Quaro,Targaryen,298,1,64,50,1,0,1,0,0,0,0,Quaro,Unknown
+662,Quellon Humble,Greyjoy,-1,-1,-1,18,1,1,0,0,0,1,0,Quellon,Humble
+663,Quent,Stark,-1,-1,-1,37,1,0,1,0,0,0,0,Quent,Unknown
+664,Quenten Banefort,Lannister,-1,-1,-1,16,1,1,0,0,0,1,0,Quenten,Banefort
+665,Quentyn Martell,Martell,300,5,70,6,1,1,0,0,0,0,1,Quentyn,Martell
+666,Quhuru Mo,None,-1,-1,-1,27,1,0,0,1,0,1,0,Quhuru,Mo
+667,Qyburn,Lannister,-1,-1,-1,64,1,0,0,1,1,1,1,Qyburn,Unknown
+668,Quort,Wildling,299,3,55,41,1,0,0,0,1,0,0,Quort,Unknown
+669,Qyle,Night's Watch,299,2,2,2,1,0,0,1,0,0,0,Qyle,Unknown
+670,Rafford,None,-1,-1,-1,19,1,0,0,1,0,1,0,Rafford,Unknown
+671,Ragnor Pyke,Greyjoy,-1,-1,-1,29,1,0,0,0,0,1,0,Ragnor,Pyke
+672,Ragwyle,Wildling,-1,-1,-1,68,0,0,0,1,0,0,0,Ragwyle,Unknown
+673,Rakharo,Targaryen,-1,-1,-1,54,1,0,1,1,1,0,1,Rakharo,Unknown
+674,Ralf Kenning,Greyjoy,300,5,20,18,1,0,0,0,0,1,1,Ralf,Kenning
+675,Ralf Stonehouse,Greyjoy,-1,-1,-1,18,1,1,0,0,0,0,1,Ralf,Stonehouse
+676,Ralf the Limper,Greyjoy,-1,-1,-1,18,1,0,0,0,0,1,1,Ralf,the
+677,Ramsay Snow,None,-1,-1,-1,16,1,1,0,1,0,0,1,Ramsay,Snow
+678,Randa,None,299,3,34,34,0,0,0,0,1,0,0,Randa,Unknown
+679,Randyll Tarly,Tyrell,-1,-1,-1,22,1,1,0,1,0,1,1,Randyll,Tarly
+680,Rast,Night's Watch,299,3,26,55,1,0,1,0,1,0,0,Rast,Unknown
+681,Ravella Swann,Tully,-1,-1,-1,22,0,1,0,0,1,0,0,Ravella,Swann
+682,Raymar Royce,Arryn,-1,-1,-1,45,1,1,0,0,1,0,0,Raymar,Royce
+683,Raymun Darry,Targaryen,298,1,55,16,1,1,1,0,0,0,0,Raymun,Darry
+684,Raymund Frey,None,-1,-1,-1,49,1,1,0,0,1,0,0,Raymund,Frey
+685,Raynald Westerling,Stark,299,3,44,14,1,1,0,0,1,1,0,Raynald,Westerling
+686,Red Alyn,Night's Watch,300,3,69,55,1,0,0,0,1,0,0,Red,Alyn
+687,Red Rolfe,Greyjoy,299,2,66,66,1,0,0,1,0,0,0,Red,Rolfe
+688,Reek,None,299,2,35,16,1,0,0,1,0,0,0,Reek,Unknown
+689,Renly Baratheon,Baratheon,299,2,33,15,1,1,1,1,0,0,0,Renly,Baratheon
+690,Reysen,Night's Watch,-1,-1,-1,5,1,0,0,1,0,0,0,Reysen,Unknown
+691,Reznak mo Reznak,None,-1,-1,-1,2,1,1,0,0,0,0,1,Reznak,mo
+692,Rhaegar Frey,None,300,5,29,19,1,1,0,0,0,0,1,Rhaegar,Frey
+693,Rhogoro,None,-1,-1,-1,3,1,1,1,0,0,0,0,Rhogoro,Unknown
+694,Ricasso,Martell,-1,-1,-1,2,1,0,0,0,0,1,1,Ricasso,Unknown
+695,Richard Horpe,Baratheon,-1,-1,-1,17,1,1,0,0,0,0,1,Richard,Horpe
+696,Rickard Karstark,Stark,299,3,20,53,1,1,1,1,1,0,0,Rickard,Karstark
+697,Rickard Ryswell,Stark,-1,-1,-1,20,1,1,0,0,0,0,1,Rickard,Ryswell
+698,Rickon Stark,Stark,-1,-1,-1,7,1,1,1,1,0,0,0,Rickon,Stark
+699,Rigney,None,-1,-1,-1,11,1,0,0,0,0,1,0,Rigney,Unknown
+700,Robar Royce,Baratheon,299,2,6,29,1,1,1,1,1,0,0,Robar,Royce
+701,Robb Stark,Stark,299,3,51,1,1,1,1,1,1,0,0,Robb,Stark
+702,Robert Baratheon,Baratheon,298,1,47,4,1,1,1,0,0,0,0,Robert,Baratheon
+703,Robert Arryn,Arryn,-1,-1,-1,40,1,1,1,0,1,1,0,Robert,Arryn
+704,Robett Glover,Stark,-1,-1,-1,53,1,1,1,1,0,0,1,Robett,Glover
+705,Robin Flint,Stark,299,3,51,63,1,1,1,1,1,0,0,Robin,Flint
+706,Robin Moreland,Lannister,-1,-1,-1,16,1,1,0,0,0,1,0,Robin,Moreland
+707,Robin Ryger,Tully,-1,-1,-1,7,1,1,0,1,1,1,0,Robin,Ryger
+708,Rodrik Cassel,Stark,299,2,66,7,1,1,1,1,0,0,0,Rodrik,Cassel
+709,Rodrik Harlaw,Greyjoy,-1,-1,-1,11,1,1,0,0,0,1,0,Rodrik,Harlaw
+710,Rodrik Ryswell,None,-1,-1,-1,32,1,1,0,0,0,0,1,Rodrik,Ryswell
+711,Roger Hogg,Lannister,-1,-1,-1,27,1,1,0,0,0,1,0,Roger,Hogg
+712,Roger Ryswell,Stark,-1,-1,-1,20,1,1,0,0,0,0,1,Roger,Ryswell
+713,Roland Crakehall (Lord),Lannister,-1,-1,-1,32,1,1,0,1,0,0,0,Roland,Crakehall
+714,Rolder,Lannister,-1,-1,-1,21,1,0,0,0,0,1,0,Rolder,Unknown
+715,Rolfe,Greyjoy,-1,-1,-1,24,1,0,0,1,0,0,0,Rolfe,Unknown
+716,Rollam Westerling,Stark,-1,-1,-1,14,1,1,0,0,1,0,0,Rollam,Westerling
+717,Rolfe the Dwarf,Greyjoy,300,5,26,26,1,0,0,0,0,0,1,Rolfe,the
+718,Rolley,Night's Watch,299,3,33,0,1,0,0,0,1,0,0,Rolley,Unknown
+719,Rolly Duckfield,Targaryen,-1,-1,-1,8,1,0,0,0,0,0,1,Rolly,Duckfield
+720,Rolph Spicer,Lannister,-1,-1,-1,14,1,1,0,0,1,0,0,Rolph,Spicer
+721,Romny Weaver,Greyjoy,-1,-1,-1,18,1,1,0,0,0,1,0,Romny,Weaver
+722,Ronald Storm,None,-1,-1,-1,61,1,0,0,0,0,0,1,Ronald,Storm
+723,Ronnel Harclay,Night's Watch,-1,-1,-1,48,1,1,0,0,1,0,0,Ronnel,Harclay
+724,Ronnet Connington,Baratheon,-1,-1,-1,22,1,1,0,1,0,1,1,Ronnet,Connington
+725,Roose Bolton,Stark,-1,-1,-1,33,1,1,1,1,1,0,1,Roose,Bolton
+726,Roose Ryswell,None,-1,-1,-1,32,1,1,0,0,0,0,1,Roose,Ryswell
+727,Rorge,None,300,4,37,1,1,0,0,1,1,1,0,Rorge,Unknown
+728,Roslin Frey,None,-1,-1,-1,35,0,1,0,0,1,0,0,Roslin,Frey
+729,Rowan,Wildling,300,5,69,37,1,0,0,0,0,0,1,Rowan,Unknown
+730,Rudge,Night's Watch,-1,-1,-1,60,1,0,1,0,0,0,0,Rudge,Unknown
+731,Rusty Flowers,Night's Watch,-1,-1,-1,7,1,0,0,0,0,0,1,Rusty,Flowers
+732,Ryger Rivers,None,-1,-1,-1,59,1,0,1,0,0,0,0,Ryger,Rivers
+733,Ryk,Wildling,-1,-1,-1,7,1,0,0,0,1,0,0,Ryk,Unknown
+734,Rupert Brax,Lannister,299,2,32,32,1,0,0,1,0,0,0,Rupert,Brax
+735,Ryman Frey,None,300,4,44,14,1,1,0,0,1,1,0,Ryman,Frey
+736,Rymolf Stormdrunk,Greyjoy,-1,-1,-1,24,1,0,0,1,0,0,0,Rymolf,Stormdrunk
+737,Ryon Allyrion,Martell,-1,-1,-1,38,1,1,0,0,1,0,1,Ryon,Allyrion
+738,Salladhor Saan,Baratheon,-1,-1,-1,0,1,1,0,1,1,0,0,Salladhor,Saan
+739,Sallor,None,299,3,42,42,1,0,0,0,1,0,0,Sallor,Unknown
+740,Samwell Tarly,Night's Watch,-1,-1,-1,70,1,1,1,1,1,1,1,Samwell,Tarly
+741,Sandor Clegane,None,300,4,31,7,1,1,1,1,1,1,0,Sandor,Clegane
+742,Sawane Botley,Greyjoy,299,4,18,1,1,1,0,0,0,1,0,Sawane,Botley
+743,Sansa Stark,Stark,-1,-1,-1,7,0,1,1,1,1,1,0,Sansa,Stark
+744,Sarella Sand,Martell,-1,-1,-1,2,0,0,0,0,0,1,0,Sarella,Sand
+745,Sarra Frey,None,-1,-1,-1,49,0,1,0,0,1,0,0,Sarra,Frey
+746,Satin,Night's Watch,-1,-1,-1,6,1,0,0,1,1,0,1,Satin,Unknown
+747,Sawwood,Night's Watch,-1,-1,-1,0,1,0,0,0,1,0,0,Sawwood,Unknown
+748,Sedgekins,None,-1,-1,-1,50,1,0,0,0,1,0,0,Sedgekins,Unknown
+749,Selyse Florent,Baratheon,-1,-1,-1,0,0,1,0,1,1,0,1,Selyse,Florent
+750,Senelle,Lannister,300,4,24,3,0,0,0,0,0,1,0,Senelle,Unknown
+751,Serra Frey,None,-1,-1,-1,49,0,1,0,0,1,0,0,Serra,Frey
+752,Shadrich,None,-1,-1,-1,4,1,0,0,0,0,1,0,Shadrich,Unknown
+753,Shae,Lannister,300,3,77,62,0,0,1,1,1,0,0,Shae,Unknown
+754,Shagga,Lannister,-1,-1,-1,39,1,0,1,1,0,0,0,Shagga,Unknown
+755,Shagwell,None,300,4,20,30,1,0,0,1,1,1,0,Shagwell,Unknown
+756,Sharna,None,-1,-1,-1,11,0,0,0,0,1,0,0,Sharna,Unknown
+757,Shireen Baratheon,Baratheon,-1,-1,-1,0,0,1,0,1,1,0,1,Shireen,Baratheon
+758,Shirei Frey,None,-1,-1,-1,49,0,1,0,0,1,0,0,Shirei,Frey
+759,Shyra Errol,Baratheon,300,4,-1,42,0,1,0,1,0,0,0,Shyra,Errol
+760,Sigfry Stonetree,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Sigfry,Stonetree
+761,Skahaz mo Kandaq,None,-1,-1,-1,2,1,1,0,0,0,0,1,Skahaz,mo
+762,Skinner,None,-1,-1,-1,12,1,0,0,0,0,0,1,Skinner,Unknown
+763,Small Paul,Night's Watch,299,3,18,0,1,0,0,0,1,0,0,Small,Paul
+764,Softfoot,Night's Watch,299,3,18,0,1,0,0,0,1,0,0,Softfoot,Unknown
+765,Sour Alyn,None,-1,-1,-1,12,1,0,0,0,0,0,1,Sour,Alyn
+766,Spare Boot,Night's Watch,-1,-1,-1,55,1,0,0,0,1,0,0,Spare,Boot
+767,Spotted Cat,None,-1,-1,-1,11,1,0,0,0,0,0,1,Spotted,Cat
+768,Spotted Pate of Maidenpool,Night's Watch,299,3,55,0,1,0,0,0,1,0,0,Spotted,Pate
+769,Squint,Greyjoy,299,2,50,50,1,0,0,1,0,0,0,Squint,Unknown
+770,Squirrel,Wildling,300,5,69,37,0,0,0,0,0,0,1,Squirrel,Unknown
+771,Stalwart Shield,Targaryen,300,5,2,2,1,0,0,0,0,0,1,Stalwart,Shield
+772,Steelskin,None,-1,-1,-1,11,1,0,0,0,0,0,1,Steelskin,Unknown
+773,Steffon Swyft,Lannister,-1,-1,-1,27,1,1,0,0,0,1,0,Steffon,Swyft
+774,Stevron Frey,Stark,299,2,35,59,1,1,1,1,0,0,0,Stevron,Frey
+775,Stiv,Wildling,298,1,37,37,1,0,1,0,0,0,0,Stiv,Unknown
+776,Stone Thumbs,Wildling,299,3,55,41,1,0,0,0,1,0,0,Stone,Thumbs
+777,Stonesnake,Night's Watch,-1,-1,-1,43,1,0,0,1,0,0,0,Stonesnake,Unknown
+778,Stygg,Greyjoy,-1,-1,-1,37,1,0,0,1,0,0,0,Stygg,Unknown
+779,Styr,Wildling,300,3,26,7,1,1,0,0,1,0,0,Styr,Unknown
+780,Sybassion,None,-1,-1,-1,63,1,0,0,1,0,0,0,Sybassion,Unknown
+781,Sybell Spicer,Lannister,-1,-1,-1,14,0,1,0,0,1,1,0,Sybell,Spicer
+782,Sybelle Glover,Stark,-1,-1,-1,26,0,1,0,0,0,0,1,Sybelle,Glover
+783,Sylva Santagar,Martell,-1,-1,-1,21,0,1,0,0,0,1,0,Sylva,Santagar
+784,Symon Silver Tongue,Lannister,299,3,32,44,1,0,0,1,1,0,0,Symon,Silver
+785,Symon Stripeback,Targaryen,-1,-1,-1,70,1,0,0,0,0,0,1,Symon,Stripeback
+786,Symond Frey,None,300,5,29,19,1,1,0,0,0,0,1,Symond,Frey
+787,Symond Templeton,Arryn,-1,-1,-1,10,1,1,0,0,0,1,0,Symond,Templeton
+788,Syrio Forel,Stark,298,1,50,22,1,0,1,0,0,0,0,Syrio,Forel
+789,Taena of Myr,Lannister,-1,-1,-1,6,0,1,0,0,1,1,0,Taena,of
+790,Tal Toraq,Targaryen,-1,-1,-1,70,1,0,0,0,0,0,1,Tal,Toraq
+791,Tallad,Lannister,-1,-1,-1,17,1,0,0,1,1,1,0,Tallad,Unknown
+792,Tanda Stokeworth,Lannister,300,4,32,2,0,1,0,1,1,0,0,Tanda,Stokeworth
+793,Tanton Fossoway,Baratheon,-1,-1,-1,22,1,1,0,1,0,0,0,Tanton,Fossoway
+794,Ternesio Terys,None,-1,-1,-1,74,1,0,0,0,1,0,0,Ternesio,Terys
+795,Terrance Lynderly,Arryn,-1,-1,-1,41,1,1,0,0,0,1,0,Terrance,Lynderly
+796,The Red Lamb,Targaryen,-1,-1,-1,67,1,0,0,0,0,0,1,The,Red
+797,Theo Frey,None,-1,-1,-1,29,1,1,1,0,0,0,0,Theo,Frey
+798,Theodan Wells,Stark,-1,-1,-1,43,1,1,0,0,0,1,1,Theodan,Wells
+799,Theomore Lannister,None,-1,-1,-1,19,1,1,0,0,0,0,1,Theomore,Lannister
+800,Theon Greyjoy,Greyjoy,-1,-1,-1,1,1,1,1,1,0,0,1,Theon,Greyjoy
+801,Thistle,Wildling,300,5,0,0,0,0,0,0,0,0,1,Thistle,Unknown
+802,Thoren Smallwood,Night's Watch,299,3,18,6,1,1,0,1,1,0,0,Thoren,Smallwood
+803,Thoros,None,-1,-1,-1,29,1,0,1,0,1,1,0,Thoros,Unknown
+804,Three Toes,None,-1,-1,-1,44,1,0,0,0,1,0,0,Three,Toes
+805,Three-Tooth,Greyjoy,-1,-1,-1,11,0,0,0,0,0,1,0,Three-Tooth,Unknown
+806,Tickler,Lannister,300,3,74,26,1,0,0,1,1,0,0,Tickler,Unknown
+807,Tim Tangletongue,Night's Watch,-1,-1,-1,69,1,0,0,0,1,0,0,Tim,Tangletongue
+808,Timeon,None,300,4,20,21,1,0,0,0,1,1,0,Timeon,Unknown
+809,Timett,Lannister,-1,-1,-1,56,1,0,1,1,0,0,0,Timett,Unknown
+810,Timon,Baratheon,-1,-1,-1,65,1,0,0,1,0,0,0,Timon,Unknown
+811,Tion Frey,Lannister,299,3,20,20,0,1,0,0,1,0,0,Tion,Frey
+812,Tobho Mott,None,-1,-1,-1,27,1,0,1,0,1,0,0,Tobho,Mott
+813,Todder,Night's Watch,-1,-1,-1,19,1,0,1,0,1,0,1,Todder,Unknown
+814,Todric,Greyjoy,299,2,37,37,1,0,0,1,0,0,0,Todric,Unknown
+815,Tom of Sevenstreams,None,-1,-1,-1,13,1,0,0,0,1,1,0,Tom,of
+816,Tomard,Stark,298,1,49,22,1,0,1,0,0,0,0,Tomard,Unknown
+817,Tormund,Wildling,-1,-1,-1,7,1,1,0,0,1,0,1,Tormund,Unknown
+818,Torrek,None,-1,-1,-1,42,1,0,1,0,0,0,0,Torrek,Unknown
+819,Torrhen Karstark,Stark,298,1,63,53,1,1,1,0,0,0,0,Torrhen,Karstark
+820,Tothmure,Lannister,299,2,64,30,1,0,0,1,0,0,0,Tothmure,Unknown
+821,Tregar,Lannister,298,1,39,35,1,0,1,0,0,0,0,Tregar,Unknown
+822,Tremond Gargalen,Martell,-1,-1,-1,38,1,1,0,0,1,0,1,Tremond,Gargalen
+823,Tristifer Botley,Greyjoy,-1,-1,-1,11,1,1,0,0,0,1,1,Tristifer,Botley
+824,Triston Sunderland,Lannister,-1,-1,-1,9,1,1,0,0,0,0,1,Triston,Sunderland
+825,Tuffleberry,None,-1,-1,-1,38,1,0,0,1,0,0,0,Tuffleberry,Unknown
+826,Tumberjon,Night's Watch,-1,-1,-1,0,1,0,0,0,1,0,0,Tumberjon,Unknown
+827,Tumco Lho,Targaryen,-1,-1,-1,67,1,0,0,0,0,0,1,Tumco,Lho
+828,Tybero Istarion,None,-1,-1,-1,66,1,0,0,0,0,0,1,Tybero,Istarion
+829,Tycho Nestoris,None,-1,-1,-1,44,1,0,0,0,0,0,1,Tycho,Nestoris
+830,Tyene Sand,Martell,-1,-1,-1,38,0,1,0,0,0,1,1,Tyene,Sand
+831,Tymor,Greyjoy,299,2,66,37,1,0,0,1,0,0,0,Tymor,Unknown
+832,Tyrek Lannister,Lannister,299,2,41,30,1,1,1,1,0,0,0,Tyrek,Lannister
+833,Tyrion Lannister,Lannister,-1,-1,-1,4,1,1,1,1,1,0,1,Tyrion,Lannister
+834,Tyta Frey,None,-1,-1,-1,49,0,1,0,0,1,0,0,Tyta,Frey
+835,Tytos Blackwood,Tully,-1,-1,-1,56,1,1,1,0,1,0,1,Tytos,Blackwood
+836,Tytos Brax,Lannister,-1,-1,-1,63,1,1,1,1,0,0,0,Tytos,Brax
+837,Tytos Frey,None,299,3,-1,-1,1,1,0,0,1,0,0,Tytos,Frey
+838,Tywin Lannister,Lannister,300,3,77,42,1,1,1,1,1,0,0,Tywin,Lannister
+839,Ulf son of Umar,Lannister,298,1,62,56,1,0,1,0,0,0,0,Ulf,son
+840,Ulf the Ill,Greyjoy,299,2,66,66,1,0,0,1,0,0,0,Ulf,the
+841,Ulmer,Night's Watch,-1,-1,-1,33,1,0,0,0,1,0,1,Ulmer,Unknown
+842,Ulwyck Uller,Martell,-1,-1,-1,38,1,1,0,0,1,0,1,Ulwyck,Uller
+843,Umar,None,-1,-1,-1,56,1,0,1,0,0,0,0,Umar,Unknown
+844,Umfred,None,-1,-1,-1,68,1,0,0,0,1,0,0,Umfred,Unknown
+845,Unella,None,-1,-1,-1,43,1,0,0,0,0,1,0,Unella,Unknown
+846,Urreg,Night's Watch,299,2,19,14,1,0,0,1,0,0,0,Urreg,Unknown
+847,Urswyck,None,-1,-1,-1,21,1,0,0,0,1,0,0,Urswyck,Unknown
+848,Utherydes Wayn,Tully,-1,-1,-1,71,1,0,1,1,1,0,0,Utherydes,Wayn
+849,Utt,None,299,3,39,30,1,0,0,1,1,0,0,Utt,Unknown
+850,Val,Wildling,-1,-1,-1,7,0,0,0,0,1,0,1,Val,Unknown
+851,Varamyr,Wildling,300,5,0,15,1,0,0,0,1,0,1,Varamyr,Unknown
+852,Vardis Egen,Arryn,298,1,40,34,1,0,1,0,0,0,0,Vardis,Egen
+853,Vargo Hoat,None,300,3,20,30,1,0,0,1,1,0,0,Vargo,Hoat
+854,Varys,Targaryen,-1,-1,-1,25,1,0,1,1,1,0,1,Varys,Unknown
+855,Vayon Poole,Stark,298,1,21,7,1,0,1,1,0,0,0,Vayon,Poole
+856,Victarion Greyjoy,Greyjoy,-1,-1,-1,24,1,1,0,1,0,1,1,Victarion,Greyjoy
+857,Viserys Targaryen,Targaryen,298,1,46,3,1,1,1,0,0,0,0,Viserys,Targaryen
+858,Vylarr,Lannister,-1,-1,-1,3,1,0,0,1,0,0,0,Vylarr,Unknown
+859,Vyman,Tully,-1,-1,-1,55,1,0,0,1,1,1,0,Vyman,Unknown
+860,Waif,None,-1,-1,-1,6,0,0,0,0,0,1,1,Waif,Unknown
+861,Walda Rivers (daughter of Aemon),None,-1,-1,-1,49,0,1,0,0,1,0,0,Walda,Rivers
+862,Walder Frey,None,-1,-1,-1,28,1,1,1,0,1,0,0,Walder,Frey
+863,Walder Rivers,None,-1,-1,-1,35,1,1,0,0,1,1,0,Walder,Rivers
+864,Wallen,Wildling,298,1,37,37,1,0,1,0,0,0,0,Wallen,Unknown
+865,Walton,None,-1,-1,-1,64,1,0,0,1,1,0,1,Walton,Unknown
+866,Wat (orphan),None,-1,-1,-1,37,1,0,0,0,0,1,0,Wat,Unknown
+867,Wat (sailor),None,-1,-1,-1,34,1,0,0,0,0,1,0,Wat,Unknown
+868,Watt,Night's Watch,299,3,75,69,1,0,0,0,1,0,0,Watt,Unknown
+869,Watty,None,-1,-1,-1,39,1,0,0,0,1,0,0,Watty,Unknown
+870,Waymar Royce,Night's Watch,297,1,0,0,1,1,1,0,0,0,0,Waymar,Royce
+871,Wayn (guard),Stark,-1,-1,-1,37,1,0,1,0,0,0,0,Wayn,Unknown
+872,Weasel,None,-1,-1,-1,9,0,0,0,1,0,0,0,Weasel,Unknown
+873,Weeper,Wildling,-1,-1,-1,7,1,1,0,0,1,0,0,Weeper,Unknown
+874,Weese,Lannister,299,2,38,26,1,0,0,1,0,0,0,Weese,Unknown
+875,Wendel Manderly,Stark,299,3,51,55,1,1,1,1,1,0,0,Wendel,Manderly
+876,Wendello Qar Deeth,None,-1,-1,-1,40,1,1,0,1,0,0,0,Wendello,Qar
+877,Werlag,Greyjoy,299,2,66,37,1,0,0,1,0,0,0,Werlag,Unknown
+878,Wex Pyke,Stark,-1,-1,-1,24,1,0,0,1,0,0,1,Wex,Pyke
+879,Whalen Frey,None,-1,-1,-1,59,1,1,1,0,1,0,0,Whalen,Frey
+880,Wilbert,Stark,298,3,29,29,1,0,0,0,1,0,0,Wilbert,Unknown
+881,Will,Night's Watch,297,1,0,0,1,0,1,0,0,0,0,Will,Unknown
+882,Will (orphan),None,-1,-1,-1,37,1,0,0,0,0,1,0,Will,Unknown
+883,Willam Wells,Martell,300,5,6,6,1,0,0,0,0,0,1,Willam,Wells
+884,Willem Lannister,Lannister,299,3,20,19,1,1,0,0,1,0,0,Willem,Lannister
+885,William Mooton,Tully,-1,-1,-1,14,1,1,0,0,0,1,0,William,Mooton
+886,Willis Wode,Arryn,-1,-1,-1,31,1,1,1,0,0,0,0,Willis,Wode
+887,Willit,Lannister,-1,-1,-1,65,1,0,0,1,0,0,0,Willit,Unknown
+888,Willow Witch-eye,Wildling,300,5,69,37,0,0,0,0,0,0,1,Willow,Witch-eye
+889,Willum,Tully,-1,-1,-1,43,1,0,1,0,0,0,0,Willum,Unknown
+890,Woth,Night's Watch,299,2,14,14,1,0,0,1,0,0,0,Woth,Unknown
+891,Wulfe,Greyjoy,-1,-1,-1,29,1,0,0,0,0,1,1,Wulfe,Unknown
+892,Wun Weg Wun Dar Wun,Wildling,-1,-1,-1,35,1,0,0,0,0,0,1,Wun,Weg
+893,Wyl (guard),Stark,298,1,35,35,1,0,1,0,0,0,0,Wyl,Unknown
+894,Wyl the Whittler,None,299,3,34,34,1,0,0,0,1,0,0,Wyl,the
+895,Wylis Manderly,Stark,-1,-1,-1,55,1,1,1,1,0,1,0,Wylis,Manderly
+896,Wylla Manderly,Stark,-1,-1,-1,19,0,1,0,0,0,0,1,Wylla,Manderly
+897,Wyman Manderly,Stark,-1,-1,-1,16,1,1,0,1,0,0,1,Wyman,Manderly
+898,Wynafryd Manderly,Stark,-1,-1,-1,19,1,1,0,0,0,0,1,Wynafryd,Manderly
+899,Wynton Stout,Night's Watch,-1,-1,-1,41,1,0,0,0,1,0,0,Wynton,Stout
+900,Xaro Xhoan Daxos,None,-1,-1,-1,12,1,1,0,1,0,0,1,Xaro,Xhoan
+901,Xhondo,None,-1,-1,-1,26,1,0,0,0,0,1,0,Xhondo,Unknown
+902,Yandry,Targaryen,-1,-1,-1,8,1,0,0,0,0,0,1,Yandry,Unknown
+903,Yellow Dick,None,300,5,46,12,1,0,0,0,0,0,1,Yellow,Dick
+904,Ygon Farwynd,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Ygon,Farwynd
+905,Ygritte,Wildling,299,3,55,51,0,0,0,1,1,0,0,Ygritte,Unknown
+906,Yohn Farwynd,Greyjoy,-1,-1,-1,19,1,1,0,0,0,1,0,Yohn,Farwynd
+907,Yohn Royce,Arryn,-1,-1,-1,29,1,1,1,0,0,1,0,Yohn,Royce
+908,Yoren,Night's Watch,299,2,19,13,1,0,1,1,0,0,0,Yoren,Unknown
+909,Young Henly,Night's Watch,299,3,55,55,1,0,0,0,1,0,0,Young,Henly
+910,Ysilla,Targaryen,-1,-1,-1,8,1,0,0,0,0,0,1,Ysilla,Unknown
+911,Zei,Stark,-1,-1,-1,64,0,0,0,0,1,0,0,Zei,Unknown
+912,Zollo,None,-1,-1,-1,21,1,0,0,0,1,0,0,Zollo,Unknown
+913,Yurkhaz zo Yunzak,None,300,5,59,47,1,0,0,0,0,0,1,Yurkhaz,zo
+914,Yezzan Zo Qaggaz,None,300,5,57,25,1,1,0,0,0,0,1,Yezzan,Zo
+915,Torwynd the Tame,Wildling,300,5,73,73,1,0,0,0,1,0,0,Torwynd,the
+916,Talbert Serry,Tyrell,300,4,29,29,1,1,0,0,0,1,0,Talbert,Serry
