@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <h1> Web Viz of Medicare Spending of 2014 in U.S. by State Level </h1>
+  <h3> Visualizations </h3>
+  
+  <head>
+    <title>Embedding Vega-Lite</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.3.4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
+  </head>
+
+  <body>
+    <div id="medicareVis"></div>
+
+    <script type="text/javascript">
+      var statesMedicareViz = {
+        "data": {"url": "data/character-deaths.csv"},
+        "selection": {
+            "GOT": {
+              "type": "single",
+              "fields": ["Book of Death"],
+              "bind": {
+                "Book of Death": {"input": "range","min": 1,"max": 5,"step": 1}
+              }
+            }
+        },
+        "mark": "circle",
+        "encoding": {
+          "x": {"field": "Book Intro Chapter","type": "quantitative"},
+          "y": {"field": "Death Chapter","type": "quantitative"},
+          "color": {
+            "condition": {
+                "selection": "GOT",
+                "field": "Allegiances", "type": "nominal"
+            },
+            "value": "grey"
+          },
+          "size": {
+          "condition": {"selection": "GOT", "value": 100},
+          "value": 50
+          }
+        }
+      }
+      vegaEmbed('#medicareVis', statesMedicareViz);
+    </script>
+  </body>
+  
+</html>
