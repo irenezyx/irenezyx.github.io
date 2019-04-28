@@ -1,49 +1,58 @@
 <!DOCTYPE html>
-<html>
-  <h1> Web Viz of Medicare Spending of 2014 in U.S. by State Level </h1>
-  <h3> Visualizations </h3>
-  
-  <head>
-    <title>Embedding Vega-Lite</title>
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.3.4"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.1.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4.0.0"></script>
-  </head>
+<html lang="en">
 
-  <body>
-    <div id="medicareVis"></div>
+<head>
+    <meta charset="UTF-8">
+    <title>Matt Turk's SPR2019-ADV Project</title>
 
-    <script type="text/javascript">
-      var statesMedicareViz = {
-        "data": {"url": "data/character-deaths.csv"},
-        "selection": {
-            "GOT": {
-              "type": "single",
-              "fields": ["Book of Death"],
-              "bind": {
-                "Book of Death": {"input": "range","min": 1,"max": 5,"step": 1}
-              }
-            }
-        },
-        "mark": "circle",
-        "encoding": {
-          "x": {"field": "Book Intro Chapter","type": "quantitative"},
-          "y": {"field": "Death Chapter","type": "quantitative"},
-          "color": {
-            "condition": {
-                "selection": "GOT",
-                "field": "Allegiances", "type": "nominal"
-            },
-            "value": "grey"
-          },
-          "size": {
-          "condition": {"selection": "GOT", "value": 100},
-          "value": 50
-          }
-        }
-      }
-      vegaEmbed('#medicareVis', statesMedicareViz);
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/white.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/lib/js/head.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/vega"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed"></script>
+
+    <link rel="stylesheet/less" type="text/css" href="styles.less" />
+
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <section data-markdown="my_presentation.md">
+            
+            </section>
+            <section data-markdown = "pre2.md"></section>
+
+        </div>
+    </div>
+    <script>
+        Reveal.initialize({
+            width: 1920,
+            height: 1080,
+            dependencies: [
+                { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/marked.js' },
+                { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/markdown.min.js' },
+                { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/math/math.min.js', async: true }
+            ],
+            center: false,
+            transition: 'none',
+            backgroundTransition: 'none'
+        });
     </script>
-  </body>
-  
+    <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js"></script>
+    <script src="./figure1.js"></script>
+    <script src="./viz.js"></script>
+    <script src="./deaths_year_intro_alleg.js"></script>
+
+/body>
+
 </html>
