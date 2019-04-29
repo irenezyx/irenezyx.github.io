@@ -83,8 +83,7 @@ Yixin Zhang
 <body>
 
 <h2>Summary of Nobility</h2>
-<p>Mentioned deaths of nobility and common people are almost same: it's more like a court war!</p>
-<p>
+<p>Mentioned deaths of nobility and common people are almost same.</p>
 
 <div class="row2">
   <div class="column2">
@@ -98,19 +97,8 @@ Yixin Zhang
 </body>
 </html>
 
-
 ---
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-
----
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -134,8 +122,8 @@ Yixin Zhang
 </head>
 <body>
 
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
+<h2>gender of deaths</h2>
+<p>Gender distribution for nobility and common people is almost the same.</p>
 
 <div class="row3">
   <div class="column3">
@@ -152,7 +140,49 @@ Yixin Zhang
 </body>
 </html>
 
-
 ---
 
-<!-- .slide: data-background-iframe="https://www.youtube.com/embed/gmUK9EMy6l8" data-background-interactive -->
+### Deaths in Each Year
+
+|   Year   |     Deaths    |  
+|----------|:-------------:|
+| 297      |  3            |
+| 298      |    46  |
+| 299 | 156 |
+|300|100|
+|Unknown|612|
+
+** In the following, unknown year is set to 301 and unknown book/chapter is set to 0. ** 
+
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column0 {
+  float: left;
+  width: 100%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row0::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row0">
+  <div class="column0">
+    <img src="./fig/all_death_years.jpg" style="width:30%">
+  </div>
+
+</div>
+
+</body>
+</html>

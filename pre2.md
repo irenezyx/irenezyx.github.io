@@ -33,16 +33,28 @@
 </body>
 </html>
 
-
-
 ---
+
+### Nobility, Death Year, Book of Death
+
+<p> Many Starks, common people and night's watch died in Book 3 and Year 299. </p>
 
 <div id = "dyiaVis"></div>
 
 ---
 
+### Important battles mentioned
+
 <div id="battlerVis"></div>
 
 ---
+
+### Preview video of final season
+
+<!-- .slide: data-background-iframe="https://www.youtube.com/embed/rlR4PJn8b8I" data-background-interactive -->
+
+---
+
+### Thank you!
 
 end
