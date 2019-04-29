@@ -24,7 +24,7 @@ Yixin Zhang
 
 ### Houses
 
-* A [story map](http://viewers-guide.hbo.com/game-of-thrones/season-1/episode-1/map/location/68/volantis-free-city) for season 1 *
+** A [story map](http://viewers-guide.hbo.com/game-of-thrones/season-1/episode-1/map/location/68/volantis-free-city) for season 1 **
 
 <html>
 <head>
@@ -51,7 +51,7 @@ Yixin Zhang
 
 <div class="row0">
   <div class="column0">
-    <img src="./fig/houses_intro.jpg" style="width:80%">
+    <img src="./fig/houses_intro.jpg" style="width:60%">
   </div>
 
 </div>
