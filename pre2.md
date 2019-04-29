@@ -25,7 +25,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="./fig/deaths_years.jpg" style="width:70%">
+    <img src="./fig/Deaths_Years.jpg" style="width:70%">
   </div>
 
 </div>
