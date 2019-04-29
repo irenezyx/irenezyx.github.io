@@ -1,4 +1,4 @@
-### Relationship of Deaths of Each Houses with Year
+### Relationship of Deaths of Each Allegience with Year
 
 <html>
 <head>
@@ -32,6 +32,19 @@
 
 </body>
 </html>
+
+---
+
+### Deaths of each house VS. Years
+
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="./fig/Houses_Years.jpg" style="width:70%">
+  </div>
+
+</div>
 
 ---
 
