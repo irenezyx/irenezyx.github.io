@@ -55,6 +55,6 @@
 
 ---
 
-### Thank you!
+### Q & A
 
-end
+<center> Thank you! </center>
