@@ -57,4 +57,4 @@
 
 ### Q & A
 
-<center> Thank you! </center>
+<center style="font-size:50px;"> Thank you! </center>
