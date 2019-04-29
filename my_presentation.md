@@ -1,10 +1,20 @@
 # Data Visualization for Game of Thrones Character Deaths
 
-Yixin Zhang
+<p style="font-size:80px;">by Yixin Zhang</p>   
 
-**Did you watch the new episode last night?**
+---
 
-<p class="fragment">I won't be the spoiler: data only contains the first 5 seasons!</p>
+# Who died last night?
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<p class="fragment" style="font-size:80px;">I won't be the spoiler: data only contains the first 5 seasons!</p>
 
 ---
 
