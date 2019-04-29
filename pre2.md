@@ -1,27 +1,47 @@
-# Hi there!
+### Relationship of Deaths of Each Houses with Year
 
-This is Yixin Zhang
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-**This is the presentation!**
+.column {
+  float: left;
+  width: 100%;
+  padding: 5px;
+}
 
-<p class="fragment">Hello.  This is a fragment.</p>
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="./fig/deaths_years.jpg" style="width:70%">
+  </div>
+
+</div>
+
+</body>
+</html>
 
 
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
----
-
-Hello, is my alert here yet?
-<div id="medicareVis"></div>
 
 ---
 
 <div id = "dyiaVis"></div>
+
+---
+
+<div id="battlerVis"></div>
 
 ---
 

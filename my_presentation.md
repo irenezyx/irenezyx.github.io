@@ -8,9 +8,44 @@ This is Yixin Zhang
 
 ---
 
-OK, what now?
-<div id="vis"></div>
-    
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column2 {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by s with the CSS float property:</p>
+
+<div class="row2">
+  <div class="column2">
+    <img src="./fig/nobility_deaths_pie.jpg"  style="width:100%">
+  </div>
+  <div class="column2">
+    <img src="./fig/alleg_deaths_pie.jpg" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
+
 
 ---
 
@@ -23,9 +58,50 @@ OK, what now?
 
 <!-- .slide: data-background-color="#999999" -->
 
-hi there
+---
 
-<img src="./6.jpg" alt="Italian Trulli">
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column3 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row3::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row3">
+  <div class="column3">
+    <img src="./fig/gender_all_deaths_pie.jpg" alt="all" style="width:100%">
+  </div>
+  <div class="column3">
+    <img src="./fig/gender_nobility_deaths_pie.jpg" alt="nob" style="width:100%">
+  </div>
+  <div class="column3">
+    <img src="./fig/gender_commonility_deaths_pie.jpg" alt="com" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
+
 
 ---
 
