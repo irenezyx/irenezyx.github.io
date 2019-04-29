@@ -16,6 +16,7 @@ Yixin Zhang
   * Preprocessed
 2. Images
   * Downloaded from [Vexels](https://www.vexels.com/vectors/preview/78080/game-of-thrones-houses)
+  * Downloaded from [Pinterest](https://www.pinterest.com/pin/221450506656593446/)
 3. Frameworks
   * matplotlib
   * vega-lite

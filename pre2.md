@@ -57,4 +57,17 @@
 
 ### Q & A
 
-<center style="font-size:50px;"> Thank you! </center>
+<center style="font-size:70px;"> Thank you! </center>
+
+<center> Stark family in S1 E1, from Pinterest </center>
+
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="./fig/stark_family.jpg" style="width:50%">
+  </div>
+
+</div>
+
+</body>
